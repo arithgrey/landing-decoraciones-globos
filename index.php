@@ -475,6 +475,198 @@
             </div>
         </div>
     </section>
+    <section data-bs-version="5.1" class="features9 cid-t3PhypPtV2 quince_a mt-5" id="features9s-3">
+
+        <div class="container">
+            <div class="features-header">
+                <h3 class="mbr-section-subtitle mbr-fonts-style display-2 color_white">
+                    <strong>Cubrimos todo CDMX y la zona metropolitana!</strong>
+                </h3>
+                
+            </div>
+            <div class="row">
+                <div class="col-12 col-lg-4 item features-image mt-4">
+                    <div class="card item-wrapper">
+                        <img src="imgs/metalicos/f576becbe7933b73714e9ac07f4dda67.jpg" alt="">
+                    </div>
+                </div>
+                <div class="col-12 col-lg-4 item features-image mt-4">
+                    <div class="card item-wrapper">
+                        <img src="imgs/metalicos/d7e92efcbe4f5a0ec5e84b83d68fdf5c.jpg" alt="">
+                    </div>
+                </div>
+                <div class="col-12 col-lg-4 item features-image mt-4">
+                    <div class="card item-wrapper">
+                        <img src="imgs/metalicos/d164a10df6832f5ed7e93ca1f2bab9c2.jpg" alt="">
+
+                    </div>
+                </div>
+                <div class="col-12 col-lg-4 item features-image mt-4">
+                    <div class="card item-wrapper">
+                        <img src="imgs/metalicos/circular.jpg" alt="">
+                    </div>
+                </div>
+                <div class="col-12 col-lg-4 item features-image mt-4">
+                    <div class="card item-wrapper">
+                        <img src="imgs/metalicos/circular_1.jpg" alt="">
+                    </div>
+                </div>
+                <div class="col-12 col-lg-4 item features-image mt-4">
+                    <div class="card item-wrapper">
+                        <img src="imgs/metalicos/circular_2.jpg" alt="">
+                    </div>
+                </div>
+                
+
+                <div class="col-12 col-lg-4 item features-image mt-4">
+                    <div class="card item-wrapper">
+                        <img src="imgs/metalicos/circular_3.jpg" alt="">
+                    </div>
+                </div>
+                
+                <div class="col-12 col-lg-4 item features-image mt-4">
+                    <div class="card item-wrapper">
+                        <img src="imgs/metalicos/circular_4.jpg" alt="">
+                    </div>
+                </div>
+                
+                <div class="col-12 col-lg-4 item features-image mt-4">
+                    <div class="card item-wrapper">
+                        <img src="imgs/metalicos/circular_5.jpg" alt="">
+                    </div>
+                </div>
+                
+
+            </div>
+        </div>
+    </section>
+
+
+
+
+
+    <section data-bs-version="5.1" class="features7 cid-t3PhwUgKcN bg_pink" id="features7-2">
+        <div class="container">
+            <div class="features-header">
+                
+                <h2 class="mbr-section-title mbr-fonts-style display-2 color_white">
+                    <strong>Anticipa la fecha de tu evento con solo $100</strong>
+                </h2>
+            </div>
+            <div class="row">
+                <div class="col-12 col-lg-6 col-md-6 card item features-image">
+                    <div class="item-wrapper">
+                        <div class="card-wrapper">
+                            <div class="">
+                                <img src="imgs/cuadradas/cuadradas_1.jpg" alt="">
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-lg-6 col-md-6 card item features-image">
+                    <div class="item-wrapper">
+                        <div class="card-wrapper">
+                            <div class="">
+                                <img src="imgs/cuadradas/cuadradas_2.jpg" alt="">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-lg-6 col-md-6 card item features-image">
+                    <div class="item-wrapper">
+                        <div class="card-wrapper">
+                            <div class="">
+                                <img src="imgs/cuadradas/cuadradas_3.jpg" alt="">
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-lg-6 col-md-6 card item features-image">
+                    <div class="item-wrapper">
+                        <div class="card-wrapper">
+                            <div class="">
+                                <img src="imgs/cuadradas/cuadradas_4.jpg" alt="">
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-lg-6 col-md-6 card item features-image">
+                    <div class="item-wrapper">
+                        <div class="card-wrapper">
+                            <div class="">
+                                <img src="imgs/cuadradas/cuadradas_5.jpg" alt="">
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-lg-6 col-md-6 card item features-image">
+                    <div class="item-wrapper">
+                        <div class="card-wrapper">
+                            <div class="">
+                                <img src="imgs/cuadradas/cuadradas_6.jpg" alt="">
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="mbr-section-btn">
+                <a class="btn btn-primary display-4" target="_blank" href="https://api.whatsapp.com/send?phone=+525576127281&text=Hola!%20Me%20puedes%20ayudar,%20me%20gustaría%20agendar%20mi%20evento">
+                    Checa disponibilidad!
+                </a>
+            </div>
+        </div>
+    </section>
+    <section data-bs-version="5.1" class="features9 cid-t3PhypPtV2 amarillo" id="features9s-3">
+
+<div class="container">
+    <div class="features-header">
+        <h3 class="mbr-section-subtitle mbr-fonts-style display-2 color_white">
+            <strong>Reserva tu fecha ya!</strong>
+        </h3>
+        
+    </div>
+    <div class="row">
+        <div class="col-12 col-lg-4 item features-image mt-4">
+            <div class="card item-wrapper">
+                <img src="imgs/quince/quince_1.jpg" alt="">
+            </div>
+        </div>
+        <div class="col-12 col-lg-4 item features-image mt-4">
+            <div class="card item-wrapper">
+                <img src="imgs/quince/quince_2.jpg" alt="">
+            </div>
+        </div>
+        <div class="col-12 col-lg-4 item features-image mt-4">
+            <div class="card item-wrapper">
+                <img src="imgs/quince/quince_3.jpg" alt="">
+
+            </div>
+        </div>
+        <div class="col-12 col-lg-4 item features-image mt-4">
+            <div class="card item-wrapper">
+                <img src="imgs/quince/quince_4.jpg" alt="">
+            </div>
+        </div>
+        <div class="col-12 col-lg-4 item features-image mt-4">
+            <div class="card item-wrapper">
+                <img src="imgs/quince/quince_5.jpg" alt="">
+            </div>
+        </div>
+        <div class="col-12 col-lg-4 item features-image mt-4">
+            <div class="card item-wrapper">
+                <img src="imgs/quince/quince_6.jpg" alt="">
+            </div>
+        </div>    
+
+    </div>
+</div>
+</section>
+
     <section class="d-md-none" data-bs-version="5.1">
         <div class="container-fluid col-md-8 col-mf-offsset-2">
             <div class="fixed-bottom d-flex bg_blue">
@@ -560,5 +752,15 @@
 
     .anticipa_ya {
         background: #1013e5 !important;
+    }
+    .quince_a{
+
+        background: #000a0e!important;
+    }
+    .bg_pink{
+        background: #dca2b0!important;
+    }
+    .amarillo{
+        background: #d8c3bd!important;
     }
 </style>
