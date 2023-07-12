@@ -97,7 +97,7 @@
                     <ul class="navbar-nav nav-dropdown nav-right" data-app-modern-menu="true">
 
                         <li class="nav-item"><a class="nav-link link display-4" href="#image1-h">Galería</a></li>
-                        <li class="nav-item"><a class="nav-link link display-4" href="#slider1-a">Eventos</a></li>                        
+                        <li class="nav-item"><a class="nav-link link display-4" href="#slider1-a">Eventos</a></li>
                         <li class="nav-item"><a class="nav-link link display-4" href="#features9sss-3">(55) 7612- 7281 </a></li>
                     </ul>
 
@@ -406,7 +406,7 @@
                         ¿Cómo anticipo mi evento?
                     </h3>
                     <p class="mt-4">
-                        Para reservar la fecha de tu evento, es necesario realizar un pago anticipado de 100 pesos el monto total se liquidará
+                        Para reservar la fecha de tu evento, es necesario realizar el pago anticipado del 10% de tu cotización y el monto total se liquidará
                         al momento de terminar tu decoración
                     </p>
                     <h3 class="color-black mt-5">
@@ -430,13 +430,10 @@
     </section>
 
     <section data-bs-version="5.1" class="content1 cid-t3PiYeiBgz anticipa_ya" id="content1-g">
-
-
         <div class="container-fluid">
             <div class="row justify-content-center">
                 <div class="col-12 content">
-                    <a class="mbr-text mbr-fonts-style display-7 border p-2" target="_blank" href="https://api.whatsapp.com/send?phone=+525576127281&text=Hola!%20Me%20puedes%20ayudar,%20me%20gustaría%20agendar%20mi%20evento">
-
+                    <a class="mbr-text mbr-fonts-style display-5 border p-2" target="_blank" href="https://api.whatsapp.com/send?phone=+525576127281&text=Hola!%20Me%20puedes%20ayudar,%20me%20gustaría%20agendar%20mi%20evento">
                         Anticipa la fecha de tu evento ya!
                     </a>
                 </div>
@@ -483,7 +480,7 @@
                 </h3>
                 <h3 class="mbr-section-subtitle mbr-fonts-style ">
                     <strong>Decoraciones desde $3499</strong>
-                </h3>                
+                </h3>
             </div>
             <div class="row">
                 <div class="col-12 col-lg-4 item features-image mt-4">
@@ -517,26 +514,26 @@
                         <img src="imgs/metalicos/circular_2.jpg" alt="">
                     </div>
                 </div>
-                
+
 
                 <div class="col-12 col-lg-4 item features-image mt-4">
                     <div class="card item-wrapper">
                         <img src="imgs/metalicos/circular_3.jpg" alt="">
                     </div>
                 </div>
-                
+
                 <div class="col-12 col-lg-4 item features-image mt-4">
                     <div class="card item-wrapper">
                         <img src="imgs/metalicos/circular_4.jpg" alt="">
                     </div>
                 </div>
-                
+
                 <div class="col-12 col-lg-4 item features-image mt-4">
                     <div class="card item-wrapper">
                         <img src="imgs/metalicos/circular_5.jpg" alt="">
                     </div>
                 </div>
-                
+
 
             </div>
         </div>
@@ -544,18 +541,28 @@
 
 
 
-
+    <section data-bs-version="5.1" class="content1 cid-t3PiYeiBgz anticipa_ya_1" id="content1-g">
+        <div class="container-fluid">
+            <div class="row justify-content-center">
+                <div class="col-12 content">
+                    <a class="mbr-text mbr-fonts-style display-5 border p-2" target="_blank" href="https://api.whatsapp.com/send?phone=+525576127281&text=Hola!%20Me%20puedes%20ayudar,%20me%20gustaría%20agendar%20mi%20evento">
+                        Anticipa la fecha de tu evento ya!
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
 
     <section data-bs-version="5.1" class="features7 cid-t3PhwUgKcN bg_pink" id="features7-2">
         <div class="container">
             <div class="features-header">
-                
+
                 <h2 class="mbr-section-title mbr-fonts-style display-2 color_white">
                     <strong>Anticipa la fecha de tu evento con el 10%</strong>
                 </h2>
-                <h3 class="mbr-section-subtitle mbr-fonts-style ">
+                <h3 class="mbr-section-subtitle mbr-fonts-style color_black ">
                     <strong>Decoraciones desde $3499</strong>
-                </h3>                
+                </h3>
             </div>
             <div class="row">
                 <div class="col-12 col-lg-6 col-md-6 card item features-image">
@@ -627,51 +634,51 @@
     </section>
     <section data-bs-version="5.1" class="features9 cid-t3PhypPtV2 amarillo" id="features9s-3">
 
-<div class="container">
-    <div class="features-header">
-        <h3 class="mbr-section-subtitle mbr-fonts-style display-2 color_white">
-            <strong>Reserva tu fecha ya!</strong>
-        </h3>
-        <h3 class="mbr-section-subtitle mbr-fonts-style decoraciones_4899">
+        <div class="container">
+            <div class="features-header">
+                <h3 class="mbr-section-subtitle mbr-fonts-style display-2 color_white">
+                    <strong>Reserva tu fecha ya!</strong>
+                </h3>
+                <h3 class="mbr-section-subtitle mbr-fonts-style decoraciones_4899">
                     <strong>Decoraciones desde $4899</strong>
-        </h3>                
-    </div>
-    <div class="row">
-        <div class="col-12 col-lg-4 item features-image mt-4">
-            <div class="card item-wrapper">
-                <img src="imgs/quince/quince_1.jpg" alt="">
+                </h3>
             </div>
-        </div>
-        <div class="col-12 col-lg-4 item features-image mt-4">
-            <div class="card item-wrapper">
-                <img src="imgs/quince/quince_2.jpg" alt="">
-            </div>
-        </div>
-        <div class="col-12 col-lg-4 item features-image mt-4">
-            <div class="card item-wrapper">
-                <img src="imgs/quince/quince_3.jpg" alt="">
+            <div class="row">
+                <div class="col-12 col-lg-4 item features-image mt-4">
+                    <div class="card item-wrapper">
+                        <img src="imgs/quince/quince_1.jpg" alt="">
+                    </div>
+                </div>
+                <div class="col-12 col-lg-4 item features-image mt-4">
+                    <div class="card item-wrapper">
+                        <img src="imgs/quince/quince_2.jpg" alt="">
+                    </div>
+                </div>
+                <div class="col-12 col-lg-4 item features-image mt-4">
+                    <div class="card item-wrapper">
+                        <img src="imgs/quince/quince_3.jpg" alt="">
+
+                    </div>
+                </div>
+                <div class="col-12 col-lg-4 item features-image mt-4">
+                    <div class="card item-wrapper">
+                        <img src="imgs/quince/quince_4.jpg" alt="">
+                    </div>
+                </div>
+                <div class="col-12 col-lg-4 item features-image mt-4">
+                    <div class="card item-wrapper">
+                        <img src="imgs/quince/quince_5.jpg" alt="">
+                    </div>
+                </div>
+                <div class="col-12 col-lg-4 item features-image mt-4">
+                    <div class="card item-wrapper">
+                        <img src="imgs/quince/quince_6.jpg" alt="">
+                    </div>
+                </div>
 
             </div>
         </div>
-        <div class="col-12 col-lg-4 item features-image mt-4">
-            <div class="card item-wrapper">
-                <img src="imgs/quince/quince_4.jpg" alt="">
-            </div>
-        </div>
-        <div class="col-12 col-lg-4 item features-image mt-4">
-            <div class="card item-wrapper">
-                <img src="imgs/quince/quince_5.jpg" alt="">
-            </div>
-        </div>
-        <div class="col-12 col-lg-4 item features-image mt-4">
-            <div class="card item-wrapper">
-                <img src="imgs/quince/quince_6.jpg" alt="">
-            </div>
-        </div>    
-
-    </div>
-</div>
-</section>
+    </section>
 
     <section class="d-md-none" data-bs-version="5.1">
         <div class="container-fluid col-md-8 col-mf-offsset-2">
@@ -759,17 +766,29 @@
     .anticipa_ya {
         background: #1013e5 !important;
     }
-    .quince_a{
 
-        background: #000a0e!important;
+    .anticipa_ya_1 {
+        background: #c49248 !important;
     }
-    .bg_pink{
-        background: #dca2b0!important;
+
+    .quince_a {
+
+        background: #000a0e !important;
     }
-    .amarillo{
-        background: #d8c3bd!important;
+
+    .bg_pink {
+        background: #dca2b0 !important;
     }
-    .decoraciones_4899{
-        color:#03071a !important;
+
+    .amarillo {
+        background: #d8c3bd !important;
+    }
+
+    .decoraciones_4899 {
+        color: #03071a !important;
+    }
+
+    .color_black {
+        color: #020b18 !important;
     }
 </style>
