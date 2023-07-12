@@ -11,7 +11,7 @@
     <meta name="description" content="¡Llenaremos de magia y color tu evento! Decoraciones temáticas con globos para todo tipo de eventos, Instalamos y pagas al terminar el decorado!">
 
 
-    <title>¡Llenaremos de magia y color tu evento! Decoraciones temáticas con globos para todo tipo de eventos</title>
+    <title>¡Llenaremos de magia y color tu evento! Decoraciones temáticas con globos para todo tipo de eventos en CDMX </title>
     <link rel="stylesheet" href="assets/web/assets/mobirise-icons2/mobirise2.css">
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css?v=<?php rand(1, 10) ?>">
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
@@ -97,8 +97,7 @@
                     <ul class="navbar-nav nav-dropdown nav-right" data-app-modern-menu="true">
 
                         <li class="nav-item"><a class="nav-link link display-4" href="#image1-h">Galería</a></li>
-                        <li class="nav-item"><a class="nav-link link display-4" href="#slider1-a">Eventos</a></li>
-                        <!--<li class="nav-item"><a class="nav-link link display-4" href="#features9-3">Precios</a></li>                        -->
+                        <li class="nav-item"><a class="nav-link link display-4" href="#slider1-a">Eventos</a></li>                        
                         <li class="nav-item"><a class="nav-link link display-4" href="#features9sss-3">(55) 7612- 7281 </a></li>
                     </ul>
 
@@ -163,7 +162,7 @@
                 <div class="col-lg-8 col-md-12 text">
                     <div class="text-wrapper">
                         <h1 class="mbr-section-title mbr-fonts-style display-1 bg_decoraciones">
-                            <strong class="">Decoraciones temáticas con globos para todo tipo de eventos</strong>
+                            <strong class="">Decoraciones temáticas con globos para todo tipo de eventos en CDMX</strong>
                         </h1>
                     </div>
                 </div>
@@ -369,7 +368,7 @@
                     <strong>Instalamos y pagas al terminar el decorado!</strong>
                 </h3>
                 <h2 class="mbr-section-title mbr-fonts-style display- costo">
-                    <strong>Desde $2499</strong>
+                    <strong>Desde $2899</strong>
                 </h2>
             </div>
             <div class="row">
@@ -482,7 +481,9 @@
                 <h3 class="mbr-section-subtitle mbr-fonts-style display-2 color_white">
                     <strong>Cubrimos todo CDMX y la zona metropolitana!</strong>
                 </h3>
-                
+                <h3 class="mbr-section-subtitle mbr-fonts-style ">
+                    <strong>Decoraciones desde $3499</strong>
+                </h3>                
             </div>
             <div class="row">
                 <div class="col-12 col-lg-4 item features-image mt-4">
@@ -550,8 +551,11 @@
             <div class="features-header">
                 
                 <h2 class="mbr-section-title mbr-fonts-style display-2 color_white">
-                    <strong>Anticipa la fecha de tu evento con solo $100</strong>
+                    <strong>Anticipa la fecha de tu evento con el 10%</strong>
                 </h2>
+                <h3 class="mbr-section-subtitle mbr-fonts-style ">
+                    <strong>Decoraciones desde $3499</strong>
+                </h3>                
             </div>
             <div class="row">
                 <div class="col-12 col-lg-6 col-md-6 card item features-image">
@@ -628,7 +632,9 @@
         <h3 class="mbr-section-subtitle mbr-fonts-style display-2 color_white">
             <strong>Reserva tu fecha ya!</strong>
         </h3>
-        
+        <h3 class="mbr-section-subtitle mbr-fonts-style decoraciones_4899">
+                    <strong>Decoraciones desde $4899</strong>
+        </h3>                
     </div>
     <div class="row">
         <div class="col-12 col-lg-4 item features-image mt-4">
@@ -762,5 +768,8 @@
     }
     .amarillo{
         background: #d8c3bd!important;
+    }
+    .decoraciones_4899{
+        color:#03071a !important;
     }
 </style>
