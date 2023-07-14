@@ -74,60 +74,33 @@
 </head>
 
 <body>
-<?php require "menu.php";?>
-    <section data-bs-version="5.1" class="header2 cid-t3PhvukuJW mbr-fullscreen mbr-parallax-background" id="header2-1">
+   <?php require "menu.php";?>
 
-
-        <div class="mbr-overlay" style="opacity: 0.2; background-color: rgb(0, 0, 0);">
-        </div>
-
-        <div class="container-fluid">
-            <div class="row">
-                <div class="col-lg-2">
-
-                </div>
-                <div class="col-lg-8 col-md-12 text">
-                    <div class="text-wrapper">
-                        <h1 class="mbr-section-title mbr-fonts-style display-1 bg_decoraciones">
-                            <strong class="">Decoraciones temáticas con globos para todo tipo de eventos en CDMX</strong>
-                        </h1>
-                    </div>
-                </div>
-                <div class="col-lg-2">
-
-                </div>
-            </div>
-        </div>
-    </section>
+  
 
     <section data-bs-version="5.1" class="image1 cid-t3Pj38lILr" id="image1-h">
-
-
-
-
-
         <div>
             <div class="row">
                 <div class="col-12 col-lg-6 col-md-12 image-wrap-1">
                     <div class="image-wrapper">
-                        <img src="imgs/background3.jpg" alt="">
+                        <img src="imgs/dinosaurios/dinosaurios_1.jpg" alt="">
                     </div>
                 </div>
                 <div class="col-12 col-lg-6 image-wrap-2">
                     <div class="row">
                         <div class="col-md-6 image-wrap">
                             <div class="image-wrapper">
-                                <img src="imgs/decoracion_globos_2.jpg" alt="">
+                                <img src="imgs/dinosaurios/dinosaurios_2.jpg" alt="">
                             </div>
                         </div>
                         <div class="col-md-6 image-wrap">
                             <div class="image-wrapper">
-                                <img src="imgs/decoracion_globos_3.png" alt="">
+                                <img src="imgs/dinosaurios/dinosaurios_3.jpg" alt="">
                             </div>
                         </div>
                         <div class="col-md-12 image-wrap">
                             <div class="image-wrapper">
-                                <img src="imgs/decoracion_globos.jpg" alt="">
+                                <img src="imgs/dinosaurios/dinosaurios_4.jpg" alt="">
                             </div>
                         </div>
                     </div>
@@ -137,9 +110,6 @@
     </section>
 
     <section data-bs-version="5.1" class="slider1 mbr-embla cid-t3PhNQeo5q" id="slider1-a">
-
-
-
         <div class="position-relative text-center">
             <div class="col-12">
 
@@ -171,7 +141,7 @@
                             <div class="card-wrap">
                                 <div class="item-wrapper position-relative">
                                     <div class="image-wrap">
-                                        <img src="imgs/decoracion_cliente_benito_j2.jpg" alt="">
+                                        <img src="imgs/dinosaurios/dinosaurios_5.jpg" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -180,7 +150,7 @@
                             <div class="card-wrap">
                                 <div class="item-wrapper position-relative">
                                     <div class="image-wrap">
-                                        <img src="imgs/test_2.jpeg" alt="">
+                                        <img src="imgs/dinosaurios/dinosaurios_6.jpg" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -189,7 +159,7 @@
                             <div class="card-wrap">
                                 <div class="item-wrapper position-relative">
                                     <div class="image-wrap">
-                                        <img src="imgs/test_1.jpeg" alt="">
+                                        <img src="imgs/dinosaurios/dinosaurios_7.jpg" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -223,7 +193,7 @@
                     <div class="item-wrapper">
                         <div class="card-wrapper">
                             <div class="">
-                                <img src="imgs/coracion_coyoacan.jpg" alt="">
+                                <img src="imgs/dinosaurios/dinosaurios_8.jpg" alt="">
                             </div>
 
                         </div>
@@ -233,7 +203,7 @@
                     <div class="item-wrapper">
                         <div class="card-wrapper">
                             <div class="">
-                                <img src="imgs/coracion_coyoacan_2.jpg" alt="">
+                                <img src="imgs/dinosaurios/dinosaurios_9.jpg" alt="">
                             </div>
                         </div>
                     </div>
@@ -242,17 +212,7 @@
                     <div class="item-wrapper">
                         <div class="card-wrapper">
                             <div class="">
-                                <img src="imgs/coracion_coyoacan_3.jpg" alt="">
-                            </div>
-
-                        </div>
-                    </div>
-                </div>
-                <div class="col-12 col-lg-6 col-md-6 card item features-image">
-                    <div class="item-wrapper">
-                        <div class="card-wrapper">
-                            <div class="">
-                                <img src="imgs/coracion_iztapalapa.jpg" alt="">
+                                <img src="imgs/dinosaurios/dinosaurios_10.jpg" alt="">
                             </div>
 
                         </div>
@@ -262,7 +222,7 @@
                     <div class="item-wrapper">
                         <div class="card-wrapper">
                             <div class="">
-                                <img src="imgs/coracion_iztapalapa_2.jpg" alt="">
+                                <img src="imgs/dinosaurios/dinosaurios_11.jpg" alt="">
                             </div>
 
                         </div>
@@ -272,7 +232,17 @@
                     <div class="item-wrapper">
                         <div class="card-wrapper">
                             <div class="">
-                                <img src="imgs/coracion_iztapalapa_3.jpg" alt="">
+                                <img src="imgs/dinosaurios/dinosaurios_12.jpg" alt="">
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-lg-6 col-md-6 card item features-image">
+                    <div class="item-wrapper">
+                        <div class="card-wrapper">
+                            <div class="">
+                                <img src="imgs/dinosaurios/dinosaurios_13.jpg" alt="">
                             </div>
 
                         </div>
@@ -287,41 +257,11 @@
         </div>
     </section>
 
-    <section data-bs-version="5.1" class="features9 cid-t3PhypPtV2 instalacion" id="features9-3">
-
-        <div class="container">
-            <div class="features-header">
-                <h3 class="mbr-section-subtitle mbr-fonts-style display-2 color_bbb">
-                    <strong>Instalamos y pagas al terminar el decorado!</strong>
-                </h3>
-                <h2 class="mbr-section-title mbr-fonts-style display- costo">
-                    <strong>Desde $2899</strong>
-                </h2>
-            </div>
-            <div class="row">
-                <div class="col-12 col-lg-4 item features-image">
-                    <div class="card item-wrapper">
-                        <img src="imgs/coracion_neza.jpg" alt="">
-                    </div>
-                </div>
-                <div class="col-12 col-lg-4 item features-image">
-                    <div class="card item-wrapper">
-                        <img src="imgs/coracion_neza_2.jpg" alt="">
-                    </div>
-                </div>
-                <div class="col-12 col-lg-4 item features-image">
-                    <div class="card item-wrapper">
-                        <img src="imgs/coracion_neza_3.jpg" alt="">
-
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+   
 
     <section data-bs-version="5.1" class="clients2 cid-t3PhAepAbm" id="clients2-5">
 
-        <div class="images-container container" id="preguntasfrecuentes">
+        <div class="images-container container">
             <div class="row">
                 <div class="col-12 col-lg-6 mbr-section-head">
                     <h2 class="mbr-section-title mbr-fonts-style display-2 preguntas">
@@ -371,215 +311,7 @@
 
 
 
-    <section data-bs-version="5.1" class="features9 cid-t3PhypPtV2 quince_a" id="features9s-3">
-
-        <div class="container" id="babyshower">
-            <div class="features-header">
-                <h3 class="mbr-section-subtitle mbr-fonts-style display-2 color_white">
-                    <strong>Cubrimos todo CDMX y la zona metropolitana!</strong>
-                </h3>
-                <h3 class="mbr-section-subtitle mbr-fonts-style ">
-                    <strong>Decoraciones desde $3499</strong>
-                </h3>
-            </div>
-            <div class="row">
-                <div class="col-12 col-lg-4 item features-image mt-4">
-                    <div class="card item-wrapper">
-                        <img src="imgs/metalicos/f576becbe7933b73714e9ac07f4dda67.jpg" alt="">
-                    </div>
-                </div>
-                <div class="col-12 col-lg-4 item features-image mt-4">
-                    <div class="card item-wrapper">
-                        <img src="imgs/metalicos/d7e92efcbe4f5a0ec5e84b83d68fdf5c.jpg" alt="">
-                    </div>
-                </div>
-                <div class="col-12 col-lg-4 item features-image mt-4">
-                    <div class="card item-wrapper">
-                        <img src="imgs/metalicos/d164a10df6832f5ed7e93ca1f2bab9c2.jpg" alt="">
-
-                    </div>
-                </div>
-                <div class="col-12 col-lg-4 item features-image mt-4">
-                    <div class="card item-wrapper">
-                        <img src="imgs/metalicos/circular.jpg" alt="">
-                    </div>
-                </div>
-                <div class="col-12 col-lg-4 item features-image mt-4">
-                    <div class="card item-wrapper">
-                        <img src="imgs/metalicos/circular_1.jpg" alt="">
-                    </div>
-                </div>
-                <div class="col-12 col-lg-4 item features-image mt-4">
-                    <div class="card item-wrapper">
-                        <img src="imgs/metalicos/circular_2.jpg" alt="">
-                    </div>
-                </div>
-
-
-                <div class="col-12 col-lg-4 item features-image mt-4">
-                    <div class="card item-wrapper">
-                        <img src="imgs/metalicos/circular_3.jpg" alt="">
-                    </div>
-                </div>
-
-                <div class="col-12 col-lg-4 item features-image mt-4">
-                    <div class="card item-wrapper">
-                        <img src="imgs/metalicos/circular_4.jpg" alt="">
-                    </div>
-                </div>
-
-                <div class="col-12 col-lg-4 item features-image mt-4">
-                    <div class="card item-wrapper">
-                        <img src="imgs/metalicos/circular_5.jpg" alt="">
-                    </div>
-                </div>
-
-
-            </div>
-        </div>
-    </section>
-
-
-
-    <section data-bs-version="5.1" class="content1 cid-t3PiYeiBgz anticipa_ya_1" id="content1-g">
-        <div class="container-fluid">
-            <div class="row justify-content-center">
-                <div class="col-12 content">
-                    <a class="mbr-text mbr-fonts-style display-5 border p-2" target="_blank" href="https://api.whatsapp.com/send?phone=+525576127281&text=Hola!%20Me%20puedes%20ayudar,%20me%20gustaría%20agendar%20mi%20evento">
-                        Anticipa la fecha de tu evento ya!
-                    </a>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <section data-bs-version="5.1" class="features7 cid-t3PhwUgKcN bg_pink" id="features7-2">
-        <div class="container">
-            <div class="features-header">
-
-                <h2 class="mbr-section-title mbr-fonts-style display-2 color_white">
-                    <strong>Anticipa la fecha de tu evento con el 10%</strong>
-                </h2>
-                <h3 class="mbr-section-subtitle mbr-fonts-style color_black ">
-                    <strong>Decoraciones desde $3499</strong>
-                </h3>
-            </div>
-            <div class="row">
-                <div class="col-12 col-lg-6 col-md-6 card item features-image">
-                    <div class="item-wrapper">
-                        <div class="card-wrapper">
-                            <div class="">
-                                <img src="imgs/cuadradas/cuadradas_1.jpg" alt="">
-                            </div>
-
-                        </div>
-                    </div>
-                </div>
-                <div class="col-12 col-lg-6 col-md-6 card item features-image">
-                    <div class="item-wrapper">
-                        <div class="card-wrapper">
-                            <div class="">
-                                <img src="imgs/cuadradas/cuadradas_2.jpg" alt="">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-12 col-lg-6 col-md-6 card item features-image">
-                    <div class="item-wrapper">
-                        <div class="card-wrapper">
-                            <div class="">
-                                <img src="imgs/cuadradas/cuadradas_3.jpg" alt="">
-                            </div>
-
-                        </div>
-                    </div>
-                </div>
-                <div class="col-12 col-lg-6 col-md-6 card item features-image">
-                    <div class="item-wrapper">
-                        <div class="card-wrapper">
-                            <div class="">
-                                <img src="imgs/cuadradas/cuadradas_4.jpg" alt="">
-                            </div>
-
-                        </div>
-                    </div>
-                </div>
-                <div class="col-12 col-lg-6 col-md-6 card item features-image">
-                    <div class="item-wrapper">
-                        <div class="card-wrapper">
-                            <div class="">
-                                <img src="imgs/cuadradas/cuadradas_5.jpg" alt="">
-                            </div>
-
-                        </div>
-                    </div>
-                </div>
-                <div class="col-12 col-lg-6 col-md-6 card item features-image">
-                    <div class="item-wrapper">
-                        <div class="card-wrapper">
-                            <div class="">
-                                <img src="imgs/cuadradas/cuadradas_6.jpg" alt="">
-                            </div>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="mbr-section-btn">
-                <a class="btn btn-primary display-4" target="_blank" href="https://api.whatsapp.com/send?phone=+525576127281&text=Hola!%20Me%20puedes%20ayudar,%20me%20gustaría%20agendar%20mi%20evento">
-                    Checa disponibilidad!
-                </a>
-            </div>
-        </div>
-    </section>
-    <section data-bs-version="5.1" class="features9 cid-t3PhypPtV2 amarillo" id="features9s-3">
-
-        <div class="container" id="quinces">
-            <div class="features-header">
-                <h3 class="mbr-section-subtitle mbr-fonts-style display-2 color_white">
-                    <strong>Reserva tu fecha ya!</strong>
-                </h3>
-                <h3 class="mbr-section-subtitle mbr-fonts-style decoraciones_4899">
-                    <strong>Decoraciones desde $4899</strong>
-                </h3>
-            </div>
-            <div class="row">
-                <div class="col-12 col-lg-4 item features-image mt-4">
-                    <div class="card item-wrapper">
-                        <img src="imgs/quince/quince_1.jpg" alt="">
-                    </div>
-                </div>
-                <div class="col-12 col-lg-4 item features-image mt-4">
-                    <div class="card item-wrapper">
-                        <img src="imgs/quince/quince_2.jpg" alt="">
-                    </div>
-                </div>
-                <div class="col-12 col-lg-4 item features-image mt-4">
-                    <div class="card item-wrapper">
-                        <img src="imgs/quince/quince_3.jpg" alt="">
-
-                    </div>
-                </div>
-                <div class="col-12 col-lg-4 item features-image mt-4">
-                    <div class="card item-wrapper">
-                        <img src="imgs/quince/quince_4.jpg" alt="">
-                    </div>
-                </div>
-                <div class="col-12 col-lg-4 item features-image mt-4">
-                    <div class="card item-wrapper">
-                        <img src="imgs/quince/quince_5.jpg" alt="">
-                    </div>
-                </div>
-                <div class="col-12 col-lg-4 item features-image mt-4">
-                    <div class="card item-wrapper">
-                        <img src="imgs/quince/quince_6.jpg" alt="">
-                    </div>
-                </div>
-
-            </div>
-        </div>
-    </section>
-
+   
     <section class="d-md-none" data-bs-version="5.1">
         <div class="container-fluid col-md-8 col-mf-offsset-2">
             <div class="fixed-bottom d-flex bg_blue">
@@ -664,7 +396,7 @@
     }
 
     .anticipa_ya {
-        background: #ed0a83 !important;
+        background: green !important;
     }
 
     .anticipa_ya_1 {
@@ -690,5 +422,11 @@
 
     .color_black {
         color: #020b18 !important;
+    }
+    .cid-t3PhNQeo5q{
+        background: #0caa0c!important;
+    }
+    .cid-t3PhAepAbm{
+        background: #e9dcc6!important;
     }
 </style>
