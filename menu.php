@@ -25,6 +25,7 @@
                             Temáticas
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="tematicasDropdown">
+                        <li><a class="dropdown-item" href="barbie.php">Barbie</a></li>                            
                             <li><a class="dropdown-item" href="index.php#babyshower">Baby shower, bodas y cumpleaños</a></li>                                                        
                             <li><a class="dropdown-item" href="dinosaurios.php">Dinosaurios</a></li>                            
                             <li><a class="dropdown-item" href="index.php#quinces">Quince Años</a></li>                            
