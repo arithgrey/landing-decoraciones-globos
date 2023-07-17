@@ -181,7 +181,7 @@
                     <div class="item-wrapper">
                         <div class="card-wrapper">
                             <div class="">
-                                <img src="imgs/barbie/decoracion_barbie_10.jpg" alt="">
+                                <img src="imgs/barbie/decoracion_barbie_22.jpg" alt="">
                             </div>
 
                         </div>
@@ -262,6 +262,80 @@
             </div>
         </div>
     </section>
+ <section data-bs-version="5.1" class="features7 cid-t3PhwUgKcN galeria_seccion_bebie" id="features7-2">
+        <div class="container">
+            
+            <div class="row">
+                <div class="col-12 col-lg-6 col-md-6 card item features-image">
+                    <div class="item-wrapper">
+                        <div class="card-wrapper">
+                            <div class="">
+                                <img src="imgs/barbie/decoracion_barbie_16.jpg" alt="">
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-lg-6 col-md-6 card item features-image">
+                    <div class="item-wrapper">
+                        <div class="card-wrapper">
+                            <div class="">
+                               <img src="imgs/barbie/decoracion_barbie_18.jpg" alt="">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-lg-6 col-md-6 card item features-image">
+                    <div class="item-wrapper">
+                        <div class="card-wrapper">
+                            <div class="">
+                                
+                                 <img src="imgs/barbie/decoracion_barbie_17.jpg" alt="">
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-lg-6 col-md-6 card item features-image">
+                    <div class="item-wrapper">
+                        <div class="card-wrapper">
+                            <div class="">
+                                <img src="imgs/barbie/decoracion_barbie_19.jpg" alt="">
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-lg-6 col-md-6 card item features-image">
+                    <div class="item-wrapper">
+                        <div class="card-wrapper">
+                            <div class="">
+                                
+                                 <img src="imgs/barbie/decoracion_barbie_20.jpg" alt="">
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-lg-6 col-md-6 card item features-image">
+                    <div class="item-wrapper">
+                        <div class="card-wrapper">
+                            <div class="">
+                                <img src="imgs/barbie/decoracion_barbie_21.jpg" alt="">
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="mbr-section-btn">
+                <a class="btn btn-primary display-4" target="_blank" href="https://api.whatsapp.com/send?phone=+525576127281&text=Hola!%20Me%20puedes%20ayudar,%20me%20gustaría%20agendar%20mi%20evento">
+                    Checa disponibilidad!
+                </a>
+            </div>
+        </div>
+    </section>
+
 
     <section data-bs-version="5.1" class="content1 cid-t3PiYeiBgz anticipa_ya" id="content1-g">
         <div class="container-fluid">
@@ -276,6 +350,69 @@
     </section>
 
 
+    <section data-bs-version="5.1" class="features9 cid-t3PhypPtV2 quince_a" id="features9s-3">
+
+<div class="container" id="babyshower">
+    <div class="features-header">
+        <h3 class="mbr-section-subtitle mbr-fonts-style display-2 color_white">
+            <strong>Cubrimos todo CDMX y la zona metropolitana!</strong>
+        </h3>        
+    </div>
+    <div class="row">
+        <div class="col-12 col-lg-4 item features-image mt-4">
+            <div class="card item-wrapper">
+                <img src="imgs/barbie/decoracion_barbie_23.jpg" alt="">
+            </div>
+        </div>
+        <div class="col-12 col-lg-4 item features-image mt-4">
+            <div class="card item-wrapper">
+            <img src="imgs/barbie/decoracion_barbie_24.jpg" alt="">
+            </div>
+        </div>
+        <div class="col-12 col-lg-4 item features-image mt-4">
+            <div class="card item-wrapper">
+            <img src="imgs/barbie/decoracion_barbie_25.jpg" alt="">
+            </div>
+        </div>
+        <div class="col-12 col-lg-4 item features-image mt-4">
+            <div class="card item-wrapper">
+            <img src="imgs/barbie/decoracion_barbie_26.jpg" alt="">
+            </div>
+        </div>
+        <div class="col-12 col-lg-4 item features-image mt-4">
+            <div class="card item-wrapper">
+            <img src="imgs/barbie/decoracion_barbie_27.jpg" alt="">
+            </div>
+        </div>
+        <div class="col-12 col-lg-4 item features-image mt-4">
+            <div class="card item-wrapper">
+            <img src="imgs/barbie/decoracion_barbie_28.jpg" alt="">
+            </div>
+        </div>
+
+
+        <div class="col-12 col-lg-4 item features-image mt-4">
+            <div class="card item-wrapper">
+            <img src="imgs/barbie/decoracion_barbie_29.jpg" alt="">
+            </div>
+        </div>
+
+        <div class="col-12 col-lg-4 item features-image mt-4">
+            <div class="card item-wrapper">
+            <img src="imgs/barbie/decoracion_barbie_30.jpg" alt="">
+            </div>
+        </div>
+
+        <div class="col-12 col-lg-4 item features-image mt-4">
+            <div class="card item-wrapper">
+            <img src="imgs/barbie/decoracion_barbie_31.jpg" alt="">
+            </div>
+        </div>
+
+
+    </div>
+</div>
+</section>
 
 
     
@@ -393,5 +530,8 @@
     }
     .pink{
         color:#eb11d5!important;
+    }
+    .galeria_seccion_bebie{
+        background: #efc4ff!important;
     }
 </style>
