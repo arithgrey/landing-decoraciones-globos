@@ -272,7 +272,7 @@
                                 <img src="imgs/barbie/decoracion_barbie_18.jpg" alt="">
                             </div>
                             <div class="text-center mt-4">
-                                <h3 class="strong precio">$3799</h3>
+                                <h3 class="strong precio">$4399</h3>
                             </div>
                         </div>
                     </div>
