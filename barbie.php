@@ -51,7 +51,7 @@
                     <div class="row">
                         <div class="col-md-6 image-wrap">
                             <div class="image-wrapper">
-                                <img src="imgs/barbie/decoracion_barbie_2.jpg" alt="">
+                                <img src="imgs/barbie/decoracion_barbie_32.jpg" alt="">
                             </div>
                         </div>
                         <div class="col-md-6 image-wrap">
@@ -108,7 +108,7 @@
                                     <div class="image-wrap">
                                         <img src="imgs/barbie/decoracion_barbie_5.jpg" alt="">
                                         <div class="text-center mt-4">
-                                            <h3 class="strong precio">$5199</h3>
+                                            <h3 class="strong precio">$5499</h3>
                                         </div>
                                     </div>
 
@@ -134,7 +134,7 @@
                                     <div class="image-wrap">
                                         <img src="imgs/barbie/decoracion_barbie_7.jpg" alt="">
                                         <div class="text-center mt-4">
-                                            <h3 class="strong precio">$3499</h3>
+                                            <h3 class="strong precio">$2899</h3>
                                         </div>
                                     </div>
 
@@ -185,7 +185,7 @@
                                 <img src="imgs/barbie/decoracion_barbie_9.jpg" alt="">
                             </div>
                             <div class="text-center mt-4">
-                                <h3 class="strong precio">$3399</h3>
+                                <h3 class="strong precio">$2999</h3>
                             </div>
                         </div>
                     </div>
@@ -197,7 +197,7 @@
                                 <img src="imgs/barbie/decoracion_barbie_22.jpg" alt="">
                             </div>
                             <div class="text-center mt-4">
-                                <h3 class="strong precio">$4799</h3>
+                                <h3 class="strong precio">$4199</h3>
                             </div>
                         </div>
                     </div>
@@ -209,7 +209,7 @@
                                 <img src="imgs/barbie/decoracion_barbie_11.jpg" alt="">
                             </div>
                             <div class="text-center mt-4">
-                                <h3 class="strong precio">$2399</h3>
+                                <h3 class="strong precio">$1799</h3>
                             </div>
                         </div>
                     </div>
@@ -247,9 +247,7 @@
         </div>
     </section>
 
-    <section data-bs-version="5.1" class="clients2 cid-t3PhAepAbm" id="clients2-5">
-        <?php require_once "preguntas_frecuentes.php"; ?>
-    </section>
+    
     <section data-bs-version="5.1" class="features7 cid-t3PhwUgKcN galeria_seccion_bebie" id="features7-2">
         <div class="container">
             <div class="row">
@@ -260,7 +258,7 @@
                                 <img src="imgs/barbie/decoracion_barbie_16.jpg" alt="">
                             </div>
                             <div class="text-center mt-4">
-                                <h3 class="strong precio">$2599</h3>
+                                <h3 class="strong precio">$2099</h3>
                             </div>
                         </div>
                     </div>
@@ -272,7 +270,7 @@
                                 <img src="imgs/barbie/decoracion_barbie_18.jpg" alt="">
                             </div>
                             <div class="text-center mt-4">
-                                <h3 class="strong precio">$4399</h3>
+                                <h3 class="strong precio">$3299</h3>
                             </div>
                         </div>
                     </div>
@@ -308,7 +306,7 @@
                                 <img src="imgs/barbie/decoracion_barbie_20.jpg" alt="">
                             </div>
                             <div class="text-center mt-4">
-                                <h3 class="strong precio">$2999</h3>
+                                <h3 class="strong precio">$2699</h3>
                             </div>
                         </div>
                     </div>
@@ -320,7 +318,7 @@
                                 <img src="imgs/barbie/decoracion_barbie_21.jpg" alt="">
                             </div>
                             <div class="text-center mt-4">
-                                <h3 class="strong precio">$3399</h3>
+                                <h3 class="strong precio">$3299</h3>
                             </div>
 
                         </div>
@@ -363,7 +361,7 @@
                         <img src="imgs/barbie/decoracion_barbie_23.jpg" alt="">
                     </div>
                     <div class="text-center mt-4">
-                        <h3 class="strong precio">$3499</h3>
+                        <h3 class="strong precio">$3599</h3>
                     </div>
                 </div>
                 <div class="col-12 col-lg-4 item features-image mt-4">
@@ -371,7 +369,7 @@
                         <img src="imgs/barbie/decoracion_barbie_24.jpg" alt="">
                     </div>
                     <div class="text-center mt-4">
-                        <h3 class="strong precio">$4499</h3>
+                        <h3 class="strong precio">$3599</h3>
                     </div>
                 </div>
                 <div class="col-12 col-lg-4 item features-image mt-4">
@@ -379,7 +377,7 @@
                         <img src="imgs/barbie/decoracion_barbie_25.jpg" alt="">
                     </div>
                     <div class="text-center mt-4">
-                        <h3 class="strong precio">$4199</h3>
+                        <h3 class="strong precio">$3899</h3>
                     </div>
 
                 </div>
@@ -388,7 +386,7 @@
                         <img src="imgs/barbie/decoracion_barbie_26.jpg" alt="">
                     </div>
                     <div class="text-center mt-4">
-                        <h3 class="strong precio">$3499</h3>
+                        <h3 class="strong precio">$2999</h3>
                     </div>
 
                 </div>
@@ -397,7 +395,7 @@
                         <img src="imgs/barbie/decoracion_barbie_27.jpg" alt="">
                     </div>
                     <div class="text-center mt-4">
-                        <h3 class="strong precio">$4899</h3>
+                        <h3 class="strong precio">$4599</h3>
                     </div>
                 </div>
                 <div class="col-12 col-lg-4 item features-image mt-4">
@@ -405,7 +403,7 @@
                         <img src="imgs/barbie/decoracion_barbie_28.jpg" alt="">
                     </div>
                     <div class="text-center mt-4">
-                        <h3 class="strong precio">$4899</h3>
+                        <h3 class="strong precio">$4599</h3>
                     </div>
                 </div>
                 <div class="col-12 col-lg-4 item features-image mt-4">
@@ -413,7 +411,7 @@
                         <img src="imgs/barbie/decoracion_barbie_29.jpg" alt="">
                     </div>
                     <div class="text-center mt-4">
-                        <h3 class="strong precio">$5399</h3>
+                        <h3 class="strong precio">$5599</h3>
                     </div>
                 </div>
                 <div class="col-12 col-lg-4 item features-image mt-4">
@@ -436,7 +434,9 @@
         </div>
     </section>
 
-
+    <section data-bs-version="5.1" class="clients2 cid-t3PhAepAbm" id="clients2-5">
+        <?php require_once "preguntas_frecuentes.php"; ?>
+    </section>
 
 
     <section class="d-md-none" data-bs-version="5.1">

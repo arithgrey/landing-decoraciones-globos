@@ -135,7 +135,11 @@
                                 <div class="item-wrapper position-relative">
                                     <div class="image-wrap">
                                         <img src="imgs/decoracion_cliente_benito_j2.jpg" alt="">
+                                        <div class="text-center mt-4">
+                                            <h3 class="strong precio">$2999</h3>
+                                        </div>
                                     </div>
+                                    
                                 </div>
                             </div>
                         </div>
@@ -144,6 +148,9 @@
                                 <div class="item-wrapper position-relative">
                                     <div class="image-wrap">
                                         <img src="imgs/test_2.jpeg" alt="">
+                                        <div class="text-center mt-4">
+                                            <h3 class="strong precio">$2899</h3>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -153,6 +160,10 @@
                                 <div class="item-wrapper position-relative">
                                     <div class="image-wrap">
                                         <img src="imgs/test_1.jpeg" alt="">
+
+                                        <div class="text-center mt-4">
+                                            <h3 class="strong precio">$3199</h3>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -187,6 +198,9 @@
                         <div class="card-wrapper">
                             <div class="">
                                 <img src="imgs/coracion_coyoacan.jpg" alt="">
+                                <div class="text-center mt-3">
+                                    <h3 class="strong precio">$2999</h3>
+                                </div>
                             </div>
 
                         </div>
@@ -197,6 +211,9 @@
                         <div class="card-wrapper">
                             <div class="">
                                 <img src="imgs/coracion_coyoacan_2.jpg" alt="">
+                                <div class="text-center mt-3">
+                                    <h3 class="strong precio">$3499</h3>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -206,6 +223,9 @@
                         <div class="card-wrapper">
                             <div class="">
                                 <img src="imgs/coracion_coyoacan_3.jpg" alt="">
+                                <div class="text-center mt-3">
+                                    <h3 class="strong precio">$5399</h3>
+                                </div>
                             </div>
 
                         </div>
@@ -216,6 +236,9 @@
                         <div class="card-wrapper">
                             <div class="">
                                 <img src="imgs/coracion_iztapalapa.jpg" alt="">
+                                <div class="text-center mt-3">
+                                    <h3 class="strong precio">$4399</h3>
+                                </div>
                             </div>
 
                         </div>
@@ -226,6 +249,9 @@
                         <div class="card-wrapper">
                             <div class="">
                                 <img src="imgs/coracion_iztapalapa_2.jpg" alt="">
+                                <div class="text-center mt-2">
+                                    <h3 class="strong precio">$4099</h3>
+                                </div>
                             </div>
 
                         </div>
@@ -236,6 +262,9 @@
                         <div class="card-wrapper">
                             <div class="">
                                 <img src="imgs/coracion_iztapalapa_3.jpg" alt="">
+                                <div class="text-center mt-2">
+                                    <h3 class="strong precio">$5399</h3>
+                                </div>
                             </div>
 
                         </div>
@@ -256,36 +285,39 @@
             <div class="features-header">
                 <h3 class="mbr-section-subtitle mbr-fonts-style display-2 color_bbb">
                     <strong>Instalamos y pagas al terminar el decorado!</strong>
-                </h3>
-                <h2 class="mbr-section-title mbr-fonts-style display- costo">
-                    <strong>Desde $2899</strong>
-                </h2>
+                </h3>                
             </div>
             <div class="row">
                 <div class="col-12 col-lg-4 item features-image">
                     <div class="card item-wrapper">
                         <img src="imgs/coracion_neza.jpg" alt="">
+                        
+                    </div>
+                    <div class="text-center mt-2">
+                        <h3 class="strong precio_2">$3199</h3>
                     </div>
                 </div>
                 <div class="col-12 col-lg-4 item features-image">
                     <div class="card item-wrapper">
                         <img src="imgs/coracion_neza_2.jpg" alt="">
                     </div>
+                    <div class="text-center mt-2">
+                        <h3 class="strong precio_2">$2899</h3>
+                    </div>
                 </div>
                 <div class="col-12 col-lg-4 item features-image">
                     <div class="card item-wrapper">
-                        <img src="imgs/coracion_neza_3.jpg" alt="">
-
+                        <img src="imgs/coracion_neza_3.jpg" alt="">                        
+                    </div>
+                    <div class="text-center mt-2">
+                            <h3 class="strong precio_2">$2799</h3>
                     </div>
                 </div>
             </div>
         </div>
     </section>
 
-    <section data-bs-version="5.1" class="clients2 cid-t3PhAepAbm" id="clients2-5">
-        <?php require_once "preguntas_frecuentes.php";?>
-    </section>
-
+   
     <section data-bs-version="5.1" class="content1 cid-t3PiYeiBgz anticipa_ya" id="content1-g">
         <div class="container-fluid">
             <div class="row justify-content-center">
@@ -308,40 +340,55 @@
                 <h3 class="mbr-section-subtitle mbr-fonts-style display-2 color_white">
                     <strong>Cubrimos todo CDMX y la zona metropolitana!</strong>
                 </h3>
-                <h3 class="mbr-section-subtitle mbr-fonts-style ">
-                    <strong>Decoraciones desde $3499</strong>
-                </h3>
+                
             </div>
             <div class="row">
                 <div class="col-12 col-lg-4 item features-image mt-4">
                     <div class="card item-wrapper">
                         <img src="imgs/metalicos/f576becbe7933b73714e9ac07f4dda67.jpg" alt="">
                     </div>
+                    <div class="text-center mt-2">
+                        <h3 class="strong precio_3">$3499</h3>
+                    </div>
                 </div>
                 <div class="col-12 col-lg-4 item features-image mt-4">
                     <div class="card item-wrapper">
                         <img src="imgs/metalicos/d7e92efcbe4f5a0ec5e84b83d68fdf5c.jpg" alt="">
                     </div>
+                    <div class="text-center mt-2">
+                        <h3 class="strong precio_3">$3399</h3>
+                    </div>
                 </div>
                 <div class="col-12 col-lg-4 item features-image mt-4">
                     <div class="card item-wrapper">
                         <img src="imgs/metalicos/d164a10df6832f5ed7e93ca1f2bab9c2.jpg" alt="">
-
+                    </div>
+                    <div class="text-center mt-2">
+                        <h3 class="strong precio_3">$2999</h3>
                     </div>
                 </div>
                 <div class="col-12 col-lg-4 item features-image mt-4">
                     <div class="card item-wrapper">
                         <img src="imgs/metalicos/circular.jpg" alt="">
                     </div>
+                    <div class="text-center mt-2">
+                        <h3 class="strong precio_3">$3599</h3>
+                    </div>
                 </div>
                 <div class="col-12 col-lg-4 item features-image mt-4">
                     <div class="card item-wrapper">
                         <img src="imgs/metalicos/circular_1.jpg" alt="">
                     </div>
+                    <div class="text-center mt-2">
+                        <h3 class="strong precio_3">$3499</h3>
+                    </div>
                 </div>
                 <div class="col-12 col-lg-4 item features-image mt-4">
                     <div class="card item-wrapper">
                         <img src="imgs/metalicos/circular_2.jpg" alt="">
+                    </div>
+                    <div class="text-center mt-2">
+                        <h3 class="strong precio_3">$3399</h3>
                     </div>
                 </div>
 
@@ -350,17 +397,26 @@
                     <div class="card item-wrapper">
                         <img src="imgs/metalicos/circular_3.jpg" alt="">
                     </div>
+                    <div class="text-center mt-2">
+                        <h3 class="strong precio_3">$3199</h3>
+                    </div>
                 </div>
 
                 <div class="col-12 col-lg-4 item features-image mt-4">
                     <div class="card item-wrapper">
                         <img src="imgs/metalicos/circular_4.jpg" alt="">
                     </div>
+                    <div class="text-center mt-2">
+                        <h3 class="strong precio_3">$3399</h3>
+                    </div>
                 </div>
 
                 <div class="col-12 col-lg-4 item features-image mt-4">
                     <div class="card item-wrapper">
                         <img src="imgs/metalicos/circular_5.jpg" alt="">
+                    </div>
+                    <div class="text-center mt-2">
+                        <h3 class="strong precio_3">$3399</h3>
                     </div>
                 </div>
 
@@ -389,10 +445,7 @@
 
                 <h2 class="mbr-section-title mbr-fonts-style display-2 color_white">
                     <strong>Anticipa la fecha de tu evento con el 10%</strong>
-                </h2>
-                <h3 class="mbr-section-subtitle mbr-fonts-style color_black ">
-                    <strong>Decoraciones desde $3499</strong>
-                </h3>
+                </h2>                
             </div>
             <div class="row">
                 <div class="col-12 col-lg-6 col-md-6 card item features-image">
@@ -400,6 +453,9 @@
                         <div class="card-wrapper">
                             <div class="">
                                 <img src="imgs/cuadradas/cuadradas_1.jpg" alt="">
+                            </div>
+                            <div class="text-center mt-3">
+                                <h3 class="strong precio_2">$3199</h3>
                             </div>
 
                         </div>
@@ -411,6 +467,9 @@
                             <div class="">
                                 <img src="imgs/cuadradas/cuadradas_2.jpg" alt="">
                             </div>
+                            <div class="text-center mt-3">
+                                <h3 class="strong precio_2">$3799</h3>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -419,6 +478,9 @@
                         <div class="card-wrapper">
                             <div class="">
                                 <img src="imgs/cuadradas/cuadradas_3.jpg" alt="">
+                            </div>
+                            <div class="text-center mt-3">
+                                <h3 class="strong precio_2">$2999</h3>
                             </div>
 
                         </div>
@@ -430,6 +492,9 @@
                             <div class="">
                                 <img src="imgs/cuadradas/cuadradas_4.jpg" alt="">
                             </div>
+                            <div class="text-center mt-3">
+                                <h3 class="strong precio_2">$3999</h3>
+                            </div>
 
                         </div>
                     </div>
@@ -439,6 +504,9 @@
                         <div class="card-wrapper">
                             <div class="">
                                 <img src="imgs/cuadradas/cuadradas_5.jpg" alt="">
+                            </div>
+                            <div class="text-center mt-3">
+                                <h3 class="strong precio_2">$3999</h3>
                             </div>
 
                         </div>
@@ -450,7 +518,9 @@
                             <div class="">
                                 <img src="imgs/cuadradas/cuadradas_6.jpg" alt="">
                             </div>
-
+                            <div class="text-center mt-3">
+                                <h3 class="strong precio_2">$3999</h3>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -468,46 +538,63 @@
             <div class="features-header">
                 <h3 class="mbr-section-subtitle mbr-fonts-style display-2 color_white">
                     <strong>Reserva tu fecha ya!</strong>
-                </h3>
-                <h3 class="mbr-section-subtitle mbr-fonts-style decoraciones_4899">
-                    <strong>Decoraciones desde $4899</strong>
-                </h3>
+                </h3>                
             </div>
             <div class="row">
                 <div class="col-12 col-lg-4 item features-image mt-4">
                     <div class="card item-wrapper">
                         <img src="imgs/quince/quince_1.jpg" alt="">
                     </div>
+                    <div class="text-center mt-3">
+                        <h3 class="strong precio_2">$4799</h3>
+                    </div>
                 </div>
                 <div class="col-12 col-lg-4 item features-image mt-4">
                     <div class="card item-wrapper">
                         <img src="imgs/quince/quince_2.jpg" alt="">
                     </div>
+                    <div class="text-center mt-3">
+                        <h3 class="strong precio_2">$5399</h3>
+                    </div>
                 </div>
                 <div class="col-12 col-lg-4 item features-image mt-4">
                     <div class="card item-wrapper">
                         <img src="imgs/quince/quince_3.jpg" alt="">
-
+                    </div>
+                    <div class="text-center mt-3">
+                        <h3 class="strong precio_2">$5599</h3>
                     </div>
                 </div>
                 <div class="col-12 col-lg-4 item features-image mt-4">
                     <div class="card item-wrapper">
                         <img src="imgs/quince/quince_4.jpg" alt="">
                     </div>
+                    <div class="text-center mt-3">
+                        <h3 class="strong precio_2">$5199</h3>
+                    </div>
                 </div>
                 <div class="col-12 col-lg-4 item features-image mt-4">
                     <div class="card item-wrapper">
                         <img src="imgs/quince/quince_5.jpg" alt="">
+                    </div>
+                    <div class="text-center mt-3">
+                        <h3 class="strong precio_2">$3999</h3>
                     </div>
                 </div>
                 <div class="col-12 col-lg-4 item features-image mt-4">
                     <div class="card item-wrapper">
                         <img src="imgs/quince/quince_6.jpg" alt="">
                     </div>
+                    <div class="text-center mt-3">
+                        <h3 class="strong precio_2">$5399</h3>
+                    </div>
                 </div>
 
             </div>
         </div>
+    </section>
+    <section data-bs-version="5.1" class="clients2 cid-t3PhAepAbm" id="clients2-5">
+        <?php require_once "preguntas_frecuentes.php";?>
     </section>
 
     <section class="d-md-none" data-bs-version="5.1">
@@ -620,5 +707,21 @@
 
     .color_black {
         color: #020b18 !important;
+    }
+    .precio{
+        background: #f8babc;
+        padding: 10px;
+        
+    }
+    .precio_2{
+        background: black;
+        padding: 10px;
+        color: white;
+        
+    }
+    .precio_3{
+        background: #ba7c6c;
+        padding: 10px;
+        color: white;
     }
 </style>
