@@ -18,7 +18,7 @@
                         <span class="navbar-caption-wrap"><a class="navbar-caption display-5" href="index.php">Globolandia</a></span>
                     </div>
                     <ul class="navbar-nav nav-dropdown nav-right" data-app-modern-menu="true">
-                        <li class="nav-item"><a class="nav-link link display-4" href="index.php#preguntasfrecuentes">Preguntas frecuentes</a></li>                        
+                        <!--<li class="nav-item"><a class="nav-link link display-4" href="index.php#preguntasfrecuentes">Preguntas frecuentes</a></li>                        -->
                         <li class="nav-item"><a class="nav-link link display-4" href="#features9sss-3">(55) 7612- 7281 </a></li>
                         <li class="nav-item">
                         <a class="nav-link dropdown-toggle display-4" href="#" id="tematicasDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -26,10 +26,9 @@
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="tematicasDropdown">
                         <li><a class="dropdown-item" href="barbie.php">Barbie</a></li>                            
-                            <li><a class="dropdown-item" href="index.php#babyshower">Baby shower, bodas y cumpleaños</a></li>                                                        
-                            <li><a class="dropdown-item" href="dinosaurios.php">Dinosaurios</a></li>                            
-                            <li><a class="dropdown-item" href="index.php#quinces">Quince Años</a></li>                            
-                            
+                            <li><a class="dropdown-item" href="babyshowers.php">Baby shower</a></li>                                                        
+                            <li><a class="dropdown-item" href="quinces.php">Quince Años</a></li> 
+                            <li><a class="dropdown-item" href="infantiles.php">Infantiles</a></li>                                                        
                         </ul>
                     </li>
                     </ul>

@@ -41,37 +41,6 @@
 
   
 
-    <section data-bs-version="5.1" class="image1 cid-t3Pj38lILr" id="image1-h">
-        <div>
-            <div class="row">
-                <div class="col-12 col-lg-6 col-md-12 image-wrap-1">
-                    <div class="image-wrapper">
-                        <img src="imgs/dinosaurios/dinosaurios_1.jpg" alt="">
-                    </div>
-                </div>
-                <div class="col-12 col-lg-6 image-wrap-2">
-                    <div class="row">
-                        <div class="col-md-6 image-wrap">
-                            <div class="image-wrapper">
-                                <img src="imgs/dinosaurios/dinosaurios_2.jpg" alt="">
-                            </div>
-                        </div>
-                        <div class="col-md-6 image-wrap">
-                            <div class="image-wrapper">
-                                <img src="imgs/dinosaurios/dinosaurios_3.jpg" alt="">
-                            </div>
-                        </div>
-                        <div class="col-md-12 image-wrap">
-                            <div class="image-wrapper">
-                                <img src="imgs/dinosaurios/dinosaurios_4.jpg" alt="">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
     <section data-bs-version="5.1" class="slider1 mbr-embla cid-t3PhNQeo5q" id="slider1-a">
         <div class="position-relative text-center">
             <div class="col-12">
@@ -104,7 +73,23 @@
                             <div class="card-wrap">
                                 <div class="item-wrapper position-relative">
                                     <div class="image-wrap">
-                                        <img src="imgs/dinosaurios/dinosaurios_5.jpg" alt="">
+                                        <img src="imgs/infantiles/infantiles_1.jpg" alt="">
+                                        <div class="text-center mt-4">
+                                            <h3 class="strong precio">$4399</h3>
+                                        </div>
+                                    </div>
+                                
+                                </div>
+                            </div>
+                        </div>
+                        <div class="embla__slide slider-image item" style="margin-left: 1rem; margin-right: 1rem;">
+                            <div class="card-wrap">
+                                <div class="item-wrapper position-relative">
+                                    <div class="image-wrap">
+                                        <img src="imgs/infantiles/infantiles_2.jpg" alt="">
+                                        <div class="text-center mt-4">
+                                            <h3 class="strong precio">$6999</h3>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -113,16 +98,10 @@
                             <div class="card-wrap">
                                 <div class="item-wrapper position-relative">
                                     <div class="image-wrap">
-                                        <img src="imgs/dinosaurios/dinosaurios_6.jpg" alt="">
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="embla__slide slider-image item" style="margin-left: 1rem; margin-right: 1rem;">
-                            <div class="card-wrap">
-                                <div class="item-wrapper position-relative">
-                                    <div class="image-wrap">
-                                        <img src="imgs/dinosaurios/dinosaurios_7.jpg" alt="">
+                                        <img src="imgs/infantiles/infantiles_3.jpg" alt="">
+                                        <div class="text-center mt-4">
+                                            <h3 class="strong precio">$7100</h3>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -156,7 +135,10 @@
                     <div class="item-wrapper">
                         <div class="card-wrapper">
                             <div class="">
-                                <img src="imgs/dinosaurios/dinosaurios_8.jpg" alt="">
+                                <img src="imgs/infantiles/infantiles_5.jpg" alt="">
+                                <div class="text-center mt-4">
+                                    <h3 class="strong precio">$6200</h3>
+                                </div>
                             </div>
 
                         </div>
@@ -166,7 +148,10 @@
                     <div class="item-wrapper">
                         <div class="card-wrapper">
                             <div class="">
-                                <img src="imgs/dinosaurios/dinosaurios_9.jpg" alt="">
+                                <img src="imgs/infantiles/infantiles_7.jpg" alt="">
+                                <div class="text-center mt-4">
+                                    <h3 class="strong precio">$6200</h3>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -175,7 +160,11 @@
                     <div class="item-wrapper">
                         <div class="card-wrapper">
                             <div class="">
-                                <img src="imgs/dinosaurios/dinosaurios_10.jpg" alt="">
+                            <img src="imgs/infantiles/infantiles_8.jpg" alt="">
+                                <div class="text-center mt-4">
+                                    <h3 class="strong precio">$4600</h3>
+                                </div>
+                                
                             </div>
 
                         </div>
@@ -185,7 +174,10 @@
                     <div class="item-wrapper">
                         <div class="card-wrapper">
                             <div class="">
-                                <img src="imgs/dinosaurios/dinosaurios_11.jpg" alt="">
+                                <img src="imgs/infantiles/infantiles_9.jpg" alt="">
+                                <div class="text-center mt-4">
+                                    <h3 class="strong precio">$6100</h3>
+                                </div>                        
                             </div>
 
                         </div>
@@ -195,7 +187,11 @@
                     <div class="item-wrapper">
                         <div class="card-wrapper">
                             <div class="">
-                                <img src="imgs/dinosaurios/dinosaurios_12.jpg" alt="">
+                                <img src="imgs/infantiles/infantiles_10.jpg" alt="">
+                                <div class="text-center mt-4">
+                                    <h3 class="strong precio">$6900</h3>
+                                </div>
+                            
                             </div>
 
                         </div>
@@ -205,9 +201,11 @@
                     <div class="item-wrapper">
                         <div class="card-wrapper">
                             <div class="">
-                                <img src="imgs/dinosaurios/dinosaurios_13.jpg" alt="">
+                                <img src="imgs/infantiles/infantiles_11.jpg" alt="">
+                                <div class="text-center mt-4">
+                                    <h3 class="strong precio">$4499</h3>
+                                </div>                            
                             </div>
-
                         </div>
                     </div>
                 </div>
@@ -219,6 +217,144 @@
             </div>
         </div>
     </section>
+    <section data-bs-version="5.1" class="features9 cid-t3PhypPtV2 quince_a" id="features9s-3">
+
+<div class="container" id="babyshower">
+    <div class="features-header">
+        <h3 class="mbr-section-subtitle mbr-fonts-style display-2 color_white">
+            <strong>Cubrimos todo CDMX y la zona metropolitana!</strong>
+        </h3>
+        
+    </div>
+    <div class="row">
+        <div class="col-12 col-lg-4 item features-image mt-4">
+            <div class="card item-wrapper">
+                <img src="imgs/infantiles/infantiles_12.jpg" alt="">
+            </div>
+            <div class="text-center mt-2">
+                <h3 class="strong precio_3">$5300</h3>
+            </div>
+        </div>
+        <div class="col-12 col-lg-4 item features-image mt-4">
+            <div class="card item-wrapper">
+                <img src="imgs/infantiles/infantiles_13.jpg" alt="">
+            </div>
+            <div class="text-center mt-2">
+                <h3 class="strong precio_3">$5100</h3>
+            </div>
+        </div>
+        <div class="col-12 col-lg-4 item features-image mt-4">
+            <div class="card item-wrapper">
+                <img src="imgs/infantiles/infantiles_14.jpg" alt="">
+            </div>
+            <div class="text-center mt-2">
+                <h3 class="strong precio_3">$5300</h3>
+            </div>
+        </div>
+        <div class="col-12 col-lg-4 item features-image mt-4">
+            <div class="card item-wrapper">
+                <img src="imgs/infantiles/infantiles_15.jpg" alt="">
+            </div>
+            <div class="text-center mt-2">
+                <h3 class="strong precio_3">$6100</h3>
+            </div>
+        </div>
+        <div class="col-12 col-lg-4 item features-image mt-4">
+            <div class="card item-wrapper">
+                <img src="imgs/infantiles/infantiles_16.jpg" alt="">
+            </div>
+            <div class="text-center mt-2">
+                <h3 class="strong precio_3">$5800</h3>
+            </div>
+        </div>
+        <div class="col-12 col-lg-4 item features-image mt-4">
+            <div class="card item-wrapper">
+                <img src="imgs/infantiles/infantiles_17.jpg" alt="">
+            </div>
+            <div class="text-center mt-2">
+                <h3 class="strong precio_3">$3399</h3>
+            </div>
+        </div>
+
+
+        <div class="col-12 col-lg-4 item features-image mt-4">
+            <div class="card item-wrapper">
+                <img src="imgs/infantiles/infantiles_18.jpg" alt="">
+            </div>
+            <div class="text-center mt-2">
+                <h3 class="strong precio_3">$3499</h3>
+            </div>
+        </div>
+
+        <div class="col-12 col-lg-4 item features-image mt-4">
+            <div class="card item-wrapper">
+                <img src="imgs/infantiles/infantiles_19.jpg" alt="">
+            </div>
+            <div class="text-center mt-2">
+                <h3 class="strong precio_3">$4300</h3>
+            </div>
+        </div>
+
+        <div class="col-12 col-lg-4 item features-image mt-4">
+            <div class="card item-wrapper">
+                <img src="imgs/infantiles/infantiles_20.jpg" alt="">
+            </div>
+            <div class="text-center mt-2">
+                <h3 class="strong precio_3">$4100</h3>
+            </div>
+        </div>
+
+        <div class="col-12 col-lg-4 item features-image mt-4">
+            <div class="card item-wrapper">
+                <img src="imgs/infantiles/infantiles_21.jpg" alt="">
+            </div>
+            <div class="text-center mt-2">
+                <h3 class="strong precio_3">$4999</h3>
+            </div>
+        </div>
+
+        <div class="col-12 col-lg-4 item features-image mt-4">
+            <div class="card item-wrapper">
+                <img src="imgs/infantiles/infantiles_22.jpg" alt="">
+            </div>
+            <div class="text-center mt-2">
+                <h3 class="strong precio_3">$3999</h3>
+            </div>
+        </div>
+        <div class="col-12 col-lg-4 item features-image mt-4">
+            <div class="card item-wrapper">
+                <img src="imgs/infantiles/infantiles_23.jpg" alt="">
+            </div>
+            <div class="text-center mt-2">
+                <h3 class="strong precio_3">$3999</h3>
+            </div>
+        </div>
+        <div class="col-12 col-lg-4 item features-image mt-4">
+            <div class="card item-wrapper">
+                <img src="imgs/infantiles/infantiles_24.jpg" alt="">
+            </div>
+            <div class="text-center mt-2">
+                <h3 class="strong precio_3">$4399</h3>
+            </div>
+        </div>
+        <div class="col-12 col-lg-4 item features-image mt-4">
+            <div class="card item-wrapper">
+                <img src="imgs/infantiles/infantiles_25.jpg" alt="">
+            </div>
+            <div class="text-center mt-2">
+                <h3 class="strong precio_3">$4399</h3>
+            </div>
+        </div>
+
+
+
+
+
+
+    </div>
+</div>
+</section>
+
 
    
 
@@ -292,7 +428,7 @@
     }
 
     .galeria_seccion {
-        background: #020226 !important;
+        background: #104eaa !important;
     }
 
     .bg_blue {
@@ -354,9 +490,14 @@
         color: #020b18 !important;
     }
     .cid-t3PhNQeo5q{
-        background: #0caa0c!important;
+        background: #f27450!important;
     }
     .cid-t3PhAepAbm{
         background: #e9dcc6!important;
     }
+    .precio,.precio_3{
+        background: #e9be0f;
+        padding: 10px;
+    }
+    
 </style>

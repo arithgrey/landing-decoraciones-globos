@@ -39,6 +39,7 @@
 <body>
     <?php require "menu.php"; ?>
 
+
     <section data-bs-version="5.1" class="slider1 mbr-embla cid-t3PhNQeo5q" id="slider1-a">
 
 
@@ -74,9 +75,9 @@
                             <div class="card-wrap">
                                 <div class="item-wrapper position-relative">
                                     <div class="image-wrap">
-                                        <img src="imgs/barbie/decoracion_barbie_5.jpg" alt="">
+                                        <img src="imgs/babyshowers/baby_1.jpg" alt="">
                                         <div class="text-center mt-4">
-                                            <h3 class="strong precio">$5499</h3>
+                                            <h3 class="strong precio">$5299</h3>
                                         </div>
                                     </div>
 
@@ -87,9 +88,9 @@
                             <div class="card-wrap">
                                 <div class="item-wrapper position-relative">
                                     <div class="image-wrap">
-                                        <img src="imgs/barbie/decoracion_barbie_6.jpg" alt="">
+                                        <img src="imgs/babyshowers/baby_2.jpg" alt="">
                                         <div class="text-center mt-4">
-                                            <h3 class="strong precio">$3599</h3>
+                                            <h3 class="strong precio">$6499</h3>
                                         </div>
                                     </div>
 
@@ -100,9 +101,9 @@
                             <div class="card-wrap">
                                 <div class="item-wrapper position-relative">
                                     <div class="image-wrap">
-                                        <img src="imgs/barbie/decoracion_barbie_7.jpg" alt="">
+                                        <img src="imgs/babyshowers/baby_3.jpg" alt="">
                                         <div class="text-center mt-4">
-                                            <h3 class="strong precio">$2899</h3>
+                                            <h3 class="strong precio">$4200</h3>
                                         </div>
                                     </div>
 
@@ -138,7 +139,106 @@
                     <div class="item-wrapper">
                         <div class="card-wrapper">
                             <div>
-                                <img src="imgs/barbie/decoracion_barbie_8.jpg" alt="">
+                                <img src="imgs/babyshowers/baby_4.jpg" alt="">
+                            </div>
+                            <div class="text-center mt-4">
+                                <h3 class="strong precio">$5600</h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-lg-6 col-md-6 card item features-image">
+                    <div class="item-wrapper">
+                        <div class="card-wrapper">
+                            <div class="">
+                                <img src="imgs/babyshowers/baby_5.jpg" alt="">
+                            </div>
+                            <div class="text-center mt-4">
+                                <h3 class="strong precio">6200</h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-lg-6 col-md-6 card item features-image">
+                    <div class="item-wrapper">
+                        <div class="card-wrapper">
+                            <div class="">
+                                <img src="imgs/babyshowers/baby_6.jpg" alt="">
+                            </div>
+                            <div class="text-center mt-4">
+                                <h3 class="strong precio">$4400</h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-lg-6 col-md-6 card item features-image">
+                    <div class="item-wrapper">
+                        <div class="card-wrapper">
+                            <div class="">
+                                <img src="imgs/babyshowers/baby_7.jpg" alt="">
+                            </div>
+                            <div class="text-center mt-4">
+                                <h3 class="strong precio">$6299</h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-lg-6 col-md-6 card item features-image">
+                    <div class="item-wrapper">
+                        <div class="card-wrapper">
+                            <div class="">
+                                <img src="imgs/babyshowers/baby_8.jpg" alt="">
+                            </div>
+                            <div class="text-center mt-4">
+                                <h3 class="strong precio">$4700</h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-lg-6 col-md-6 card item features-image">
+                    <div class="item-wrapper">
+                        <div class="card-wrapper">
+                            <div class="">
+                                <img src="imgs/babyshowers/baby_9.jpg" alt="">
+                            </div>
+                            <div class="text-center mt-4">
+                                <h3 class="strong precio">$6499</h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-lg-6 col-md-6 card item features-image">
+                    <div class="item-wrapper">
+                        <div class="card-wrapper">
+                            <div class="">
+                                <img src="imgs/babyshowers/baby_10.jpg" alt="">
+                            </div>
+                            <div class="text-center mt-4">
+                                <h3 class="strong precio">$6499</h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-12 col-lg-6 col-md-6 card item features-image">
+                    <div class="item-wrapper">
+                        <div class="card-wrapper">
+                            <div class="">
+                                <img src="imgs/babyshowers/baby_11.jpg" alt="">
+                            </div>
+                            <div class="text-center mt-4">
+                                <h3 class="strong precio">$6499</h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="col-12 col-lg-6 col-md-6 card item features-image">
+                    <div class="item-wrapper">
+                        <div class="card-wrapper">
+                            <div class="">
+                                <img src="imgs/babyshowers/baby_12.jpg" alt="">
                             </div>
                             <div class="text-center mt-4">
                                 <h3 class="strong precio">$3499</h3>
@@ -146,66 +246,25 @@
                         </div>
                     </div>
                 </div>
+
                 <div class="col-12 col-lg-6 col-md-6 card item features-image">
                     <div class="item-wrapper">
                         <div class="card-wrapper">
                             <div class="">
-                                <img src="imgs/barbie/decoracion_barbie_9.jpg" alt="">
+                                <img src="imgs/babyshowers/baby_13.jpg" alt="">
                             </div>
                             <div class="text-center mt-4">
-                                <h3 class="strong precio">$2999</h3>
+                                <h3 class="strong precio">$3499</h3>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="col-12 col-lg-6 col-md-6 card item features-image">
-                    <div class="item-wrapper">
-                        <div class="card-wrapper">
-                            <div class="">
-                                <img src="imgs/barbie/decoracion_barbie_22.jpg" alt="">
-                            </div>
-                            <div class="text-center mt-4">
-                                <h3 class="strong precio">$4199</h3>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-12 col-lg-6 col-md-6 card item features-image">
-                    <div class="item-wrapper">
-                        <div class="card-wrapper">
-                            <div class="">
-                                <img src="imgs/barbie/decoracion_barbie_11.jpg" alt="">
-                            </div>
-                            <div class="text-center mt-4">
-                                <h3 class="strong precio">$1799</h3>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-12 col-lg-6 col-md-6 card item features-image">
-                    <div class="item-wrapper">
-                        <div class="card-wrapper">
-                            <div class="">
-                                <img src="imgs/barbie/decoracion_barbie_13.jpg" alt="">
-                            </div>
-                            <div class="text-center mt-4">
-                                <h3 class="strong precio">$4899</h3>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-12 col-lg-6 col-md-6 card item features-image">
-                    <div class="item-wrapper">
-                        <div class="card-wrapper">
-                            <div class="">
-                                <img src="imgs/barbie/decoracion_barbie_15.jpg" alt="">
-                            </div>
-                            <div class="text-center mt-4">
-                                <h3 class="strong precio">$4899</h3>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+
+
+
+
+
+
             </div>
             <div class="mbr-section-btn">
                 <a class="btn btn-primary display-4" target="_blank" href="https://api.whatsapp.com/send?phone=+525576127281&text=Hola!%20Me%20puedes%20ayudar,%20me%20gustaría%20agendar%20mi%20evento">
@@ -215,7 +274,7 @@
         </div>
     </section>
 
-    
+    <!--
     <section data-bs-version="5.1" class="features7 cid-t3PhwUgKcN galeria_seccion_bebie" id="features7-2">
         <div class="container">
             <div class="row">
@@ -223,10 +282,10 @@
                     <div class="item-wrapper">
                         <div class="card-wrapper">
                             <div class="">
-                                <img src="imgs/barbie/decoracion_barbie_16.jpg" alt="">
+                                <img src="imgs/quinces/quinces_9.jpg" alt="">
                             </div>
                             <div class="text-center mt-4">
-                                <h3 class="strong precio">$2099</h3>
+                                <h3 class="strong precio">$4500</h3>
                             </div>
                         </div>
                     </div>
@@ -235,7 +294,7 @@
                     <div class="item-wrapper">
                         <div class="card-wrapper">
                             <div class="">
-                                <img src="imgs/barbie/decoracion_barbie_18.jpg" alt="">
+                                <img src="imgs/quinces/quinces_10.jpg" alt="">
                             </div>
                             <div class="text-center mt-4">
                                 <h3 class="strong precio">$3299</h3>
@@ -247,10 +306,10 @@
                     <div class="item-wrapper">
                         <div class="card-wrapper">
                             <div class="">
-                                <img src="imgs/barbie/decoracion_barbie_17.jpg" alt="">
+                                <img src="imgs/quinces/quinces_11.jpg" alt="">
                             </div>
                             <div class="text-center mt-4">
-                                <h3 class="strong precio">$4299</h3>
+                                <h3 class="strong precio">$5299</h3>
                             </div>
                         </div>
                     </div>
@@ -259,10 +318,10 @@
                     <div class="item-wrapper">
                         <div class="card-wrapper">
                             <div class="">
-                                <img src="imgs/barbie/decoracion_barbie_19.jpg" alt="">
+                                <img src="imgs/quinces/quinces_12.jpg" alt="">
                             </div>
                             <div class="text-center mt-4">
-                                <h3 class="strong precio">$2999</h3>
+                                <h3 class="strong precio">$5400</h3>
                             </div>
                         </div>
                     </div>
@@ -398,26 +457,10 @@
                         <h3 class="strong precio">$3599</h3>
                     </div>
                 </div>
-                <div class="col-12 col-lg-4 item features-image mt-4">
-                    <div class="card item-wrapper">
-                        <img src="imgs/barbie/decoracion_barbie_32.jpg" alt="">
-                    </div>
-                    <div class="text-center mt-4">
-                        <h3 class="strong precio">$5399</h3>
-                    </div>
-                </div>
-                <div class="col-12 col-lg-4 item features-image mt-4">
-                    <div class="card item-wrapper">
-                        <img src="imgs/barbie/decoracion_barbie_33.jpg" alt="">
-                    </div>
-                    <div class="text-center mt-4">
-                        <h3 class="strong precio">$3599</h3>
-                    </div>
-                </div>
-
             </div>
         </div>
     </section>
+-->
 
     <section data-bs-version="5.1" class="clients2 cid-t3PhAepAbm" id="clients2-5">
         <?php require_once "preguntas_frecuentes.php"; ?>
@@ -474,7 +517,7 @@
     }
 
     .galeria_seccion {
-        background: #fcf2ff !important;
+        background: #000205 !important;
     }
 
     .bg_blue {
@@ -548,5 +591,8 @@
         background: #d4287a;
         color: white;
         padding: 10px;
+    }
+    .cid-t3PhNQeo5q{
+        background: #e7dac7!important;
     }
 </style>
