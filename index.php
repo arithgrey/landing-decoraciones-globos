@@ -11,7 +11,7 @@
     <meta name="description" content="¡Llenaremos de magia y color tu evento! Decoraciones temáticas con globos para todo tipo de eventos, Instalamos y pagas al terminar el decorado!">
 
 
-    <title>¡Llenaremos de magia y color tu evento! Decoraciones temáticas con globos para todo tipo de eventos en CDMX </title>
+    <title>¡Llenaremos de magia y color tu evento! Decoraciones temáticas con globos y estructuras para todo tipo de eventos CDMX </title>
     <link rel="stylesheet" href="assets/web/assets/mobirise-icons2/mobirise2.css">
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
@@ -52,7 +52,7 @@
                 <div class="col-lg-8 col-md-12 text">
                     <div class="text-wrapper">
                         <h1 class="mbr-section-title mbr-fonts-style display-1 bg_decoraciones">
-                            <strong class="">Decoraciones temáticas con globos para todo tipo de eventos en CDMX</strong>
+                            <strong class="">Decoraciones temáticas con globos y estructuras para todo tipo de eventos CDMX</strong>
                         </h1>
                     </div>
                 </div>
@@ -199,10 +199,12 @@
                             <div class="">
                                 <img src="imgs/coracion_coyoacan.jpg" alt="">
                                 <div class="text-center mt-3">
-                                    <h3 class="strong precio">$2999</h3>
+                                    <a class="text-center mt-3" href="https://enidservices.com/kits-pesas-barras-discos-mancuernas-fit/producto/?producto=1685">
+                                        <h3 class="strong precio">$3800</h3>
+                                        <span>Más detalles</span>
+                                    </a>
                                 </div>
                             </div>
-
                         </div>
                     </div>
                 </div>
@@ -212,7 +214,10 @@
                             <div class="">
                                 <img src="imgs/coracion_coyoacan_2.jpg" alt="">
                                 <div class="text-center mt-3">
-                                    <h3 class="strong precio">$3499</h3>
+                                    <a class="text-center mt-3" href="https://enidservices.com/kits-pesas-barras-discos-mancuernas-fit/producto/?producto=1686">
+                                        <h3 class="strong precio">$5399</h3>
+                                        <span>Más detalles</span>
+                                    </a>
                                 </div>
                             </div>
                         </div>
@@ -224,7 +229,10 @@
                             <div class="">
                                 <img src="imgs/coracion_coyoacan_3.jpg" alt="">
                                 <div class="text-center mt-3">
-                                    <h3 class="strong precio">$5399</h3>
+                                    <a class="text-center mt-3" href="https://enidservices.com/kits-pesas-barras-discos-mancuernas-fit/producto/?producto=1687">
+                                        <h3 class="strong precio">$6899</h3>
+                                        <span>Más detalles</span>
+                                    </a>
                                 </div>
                             </div>
 
@@ -237,7 +245,10 @@
                             <div class="">
                                 <img src="imgs/coracion_iztapalapa.jpg" alt="">
                                 <div class="text-center mt-3">
-                                    <h3 class="strong precio">$4399</h3>
+                                    <a class="text-center mt-3" href="https://enidservices.com/kits-pesas-barras-discos-mancuernas-fit/producto/?producto=1688">
+                                        <h3 class="strong precio">$4399</h3>
+                                        <span>Más detalles</span>
+                                    </a>
                                 </div>
                             </div>
 
@@ -250,7 +261,10 @@
                             <div class="">
                                 <img src="imgs/coracion_iztapalapa_2.jpg" alt="">
                                 <div class="text-center mt-2">
-                                    <h3 class="strong precio">$4099</h3>
+                                    <a class="text-center mt-3" href="https://enidservices.com/kits-pesas-barras-discos-mancuernas-fit/producto/?producto=1689">
+                                        <h3 class="strong precio">$6799</h3>
+                                        <span>Más detalles</span>
+                                    </a>
                                 </div>
                             </div>
 
@@ -263,7 +277,10 @@
                             <div class="">
                                 <img src="imgs/coracion_iztapalapa_3.jpg" alt="">
                                 <div class="text-center mt-2">
-                                    <h3 class="strong precio">$5399</h3>
+                                    <a class="text-center mt-3" href="https://enidservices.com/kits-pesas-barras-discos-mancuernas-fit/producto/?producto=1690">
+                                        <h3 class="strong precio">$6899</h3>
+                                        <span>Más detalles</span>
+                                    </a>
                                 </div>
                             </div>
 
@@ -294,15 +311,21 @@
                         
                     </div>
                     <div class="text-center mt-2">
-                        <h3 class="strong precio_2">$3199</h3>
+                        <a class="text-center mt-3" href="https://enidservices.com/kits-pesas-barras-discos-mancuernas-fit/producto/?producto=1777&q2=1">
+                            <h3 class="strong precio_2">$3699</h3>                
+                            <span class="mas_detalles">Más detalles</span>
+                        </a>
                     </div>
                 </div>
                 <div class="col-12 col-lg-4 item features-image">
                     <div class="card item-wrapper">
                         <img src="imgs/coracion_neza_2.jpg" alt="">
                     </div>
-                    <div class="text-center mt-2">
-                        <h3 class="strong precio_2">$2899</h3>
+                    <div class="text-center mt-2">                        
+                        <a class="text-center mt-3" href="https://enidservices.com/kits-pesas-barras-discos-mancuernas-fit/producto/?producto=1692">
+                            <h3 class="strong precio_2">$2899</h3>
+                            <span class="mas_detalles">Más detalles</span>
+                        </a>
                     </div>
                 </div>
                 <div class="col-12 col-lg-4 item features-image">
@@ -310,7 +333,12 @@
                         <img src="imgs/coracion_neza_3.jpg" alt="">                        
                     </div>
                     <div class="text-center mt-2">
-                            <h3 class="strong precio_2">$2799</h3>
+                        
+                        <a class="text-center mt-3" href="https://enidservices.com/kits-pesas-barras-discos-mancuernas-fit/producto/?producto=1693">
+                            <h3 class="strong precio_2">$2899</h3>
+                            <span class="mas_detalles">Más detalles</span>
+                        </a>
+
                     </div>
                 </div>
             </div>
@@ -347,8 +375,11 @@
                     <div class="card item-wrapper">
                         <img src="imgs/metalicos/f576becbe7933b73714e9ac07f4dda67.jpg" alt="">
                     </div>
-                    <div class="text-center mt-2">
-                        <h3 class="strong precio_3">$3499</h3>
+                    <div class="text-center mt-2">                        
+                        <a class="text-center mt-3" href="https://enidservices.com/kits-pesas-barras-discos-mancuernas-fit/producto/?producto=1694">
+                            <h3 class="strong precio_3">$4699</h3>
+                            <span class="">Más detalles</span>
+                        </a>                    
                     </div>
                 </div>
                 <div class="col-12 col-lg-4 item features-image mt-4">
@@ -356,15 +387,23 @@
                         <img src="imgs/metalicos/d7e92efcbe4f5a0ec5e84b83d68fdf5c.jpg" alt="">
                     </div>
                     <div class="text-center mt-2">
-                        <h3 class="strong precio_3">$3399</h3>
+                        
+                        <a class="text-center mt-3" href="https://enidservices.com/kits-pesas-barras-discos-mancuernas-fit/producto/?producto=1695">
+                            <h3 class="strong precio_3">$5199</h3>
+                            <span class="">Más detalles</span>
+                        </a>
+
                     </div>
                 </div>
                 <div class="col-12 col-lg-4 item features-image mt-4">
                     <div class="card item-wrapper">
-                        <img src="imgs/metalicos/d164a10df6832f5ed7e93ca1f2bab9c2.jpg" alt="">
+                        <img src="imgs/ssss.png" alt="">
                     </div>
                     <div class="text-center mt-2">
-                        <h3 class="strong precio_3">$2999</h3>
+                        <a class="text-center mt-3" href="https://enidservices.com/kits-pesas-barras-discos-mancuernas-fit/producto/?producto=1778&q2=1">
+                            <h3 class="strong precio_3">$4099</h3>
+                            <span class="">Más detalles</span>
+                        </a>
                     </div>
                 </div>
                 <div class="col-12 col-lg-4 item features-image mt-4">
@@ -372,7 +411,10 @@
                         <img src="imgs/metalicos/circular.jpg" alt="">
                     </div>
                     <div class="text-center mt-2">
-                        <h3 class="strong precio_3">$3599</h3>
+                        <a class="text-center mt-3" href="https://enidservices.com/kits-pesas-barras-discos-mancuernas-fit/producto/?producto=1778&q2=1">
+                            <h3 class="strong precio_3">$4399</h3>
+                            <span class="">Más detalles</span>
+                        </a>
                     </div>
                 </div>
                 <div class="col-12 col-lg-4 item features-image mt-4">
@@ -380,7 +422,11 @@
                         <img src="imgs/metalicos/circular_1.jpg" alt="">
                     </div>
                     <div class="text-center mt-2">
-                        <h3 class="strong precio_3">$3499</h3>
+                        <a class="text-center mt-3" href="https://enidservices.com/kits-pesas-barras-discos-mancuernas-fit/producto/?producto=1697">
+                            <h3 class="strong precio_3">$5199</h3>
+                            <span class="">Más detalles</span>
+                        </a>
+
                     </div>
                 </div>
                 <div class="col-12 col-lg-4 item features-image mt-4">
@@ -388,7 +434,10 @@
                         <img src="imgs/metalicos/circular_2.jpg" alt="">
                     </div>
                     <div class="text-center mt-2">
-                        <h3 class="strong precio_3">$3399</h3>
+                        <a class="text-center mt-3" href="https://enidservices.com/kits-pesas-barras-discos-mancuernas-fit/producto/?producto=1698">
+                            <h3 class="strong precio_3">$4399</h3>
+                            <span class="">Más detalles</span>
+                        </a>
                     </div>
                 </div>
 
@@ -398,7 +447,10 @@
                         <img src="imgs/metalicos/circular_3.jpg" alt="">
                     </div>
                     <div class="text-center mt-2">
-                        <h3 class="strong precio_3">$3199</h3>
+                        <a class="text-center mt-3" href="https://enidservices.com/kits-pesas-barras-discos-mancuernas-fit/producto/?producto=1699&q2=1">
+                            <h3 class="strong precio_3">$4099</h3>
+                            <span class="">Más detalles</span>
+                        </a>
                     </div>
                 </div>
 
@@ -407,7 +459,11 @@
                         <img src="imgs/metalicos/circular_4.jpg" alt="">
                     </div>
                     <div class="text-center mt-2">
-                        <h3 class="strong precio_3">$3399</h3>
+                        <a class="text-center mt-3" href="https://enidservices.com/kits-pesas-barras-discos-mancuernas-fit/producto/?producto=1700">
+                            <h3 class="strong precio_3">$5699</h3>
+                            <span class="">Más detalles</span>
+                        </a>
+
                     </div>
                 </div>
 
@@ -416,7 +472,10 @@
                         <img src="imgs/metalicos/circular_5.jpg" alt="">
                     </div>
                     <div class="text-center mt-2">
-                        <h3 class="strong precio_3">$3399</h3>
+                        <a class="text-center mt-3" href="https://enidservices.com/kits-pesas-barras-discos-mancuernas-fit/producto/?producto=1700">
+                            <h3 class="strong precio_3">$3999</h3>
+                            <span class="">Más detalles</span>
+                        </a>
                     </div>
                 </div>
 
@@ -532,67 +591,7 @@
             </div>
         </div>
     </section>
-    <section data-bs-version="5.1" class="features9 cid-t3PhypPtV2 amarillo" id="features9s-3">
-
-        <div class="container" id="quinces">
-            <div class="features-header">
-                <h3 class="mbr-section-subtitle mbr-fonts-style display-2 color_white">
-                    <strong>Reserva tu fecha ya!</strong>
-                </h3>                
-            </div>
-            <div class="row">
-                <div class="col-12 col-lg-4 item features-image mt-4">
-                    <div class="card item-wrapper">
-                        <img src="imgs/quince/quince_1.jpg" alt="">
-                    </div>
-                    <div class="text-center mt-3">
-                        <h3 class="strong precio_2">$4799</h3>
-                    </div>
-                </div>
-                <div class="col-12 col-lg-4 item features-image mt-4">
-                    <div class="card item-wrapper">
-                        <img src="imgs/quince/quince_2.jpg" alt="">
-                    </div>
-                    <div class="text-center mt-3">
-                        <h3 class="strong precio_2">$5399</h3>
-                    </div>
-                </div>
-                <div class="col-12 col-lg-4 item features-image mt-4">
-                    <div class="card item-wrapper">
-                        <img src="imgs/quince/quince_3.jpg" alt="">
-                    </div>
-                    <div class="text-center mt-3">
-                        <h3 class="strong precio_2">$5599</h3>
-                    </div>
-                </div>
-                <div class="col-12 col-lg-4 item features-image mt-4">
-                    <div class="card item-wrapper">
-                        <img src="imgs/quince/quince_4.jpg" alt="">
-                    </div>
-                    <div class="text-center mt-3">
-                        <h3 class="strong precio_2">$5199</h3>
-                    </div>
-                </div>
-                <div class="col-12 col-lg-4 item features-image mt-4">
-                    <div class="card item-wrapper">
-                        <img src="imgs/quince/quince_5.jpg" alt="">
-                    </div>
-                    <div class="text-center mt-3">
-                        <h3 class="strong precio_2">$3999</h3>
-                    </div>
-                </div>
-                <div class="col-12 col-lg-4 item features-image mt-4">
-                    <div class="card item-wrapper">
-                        <img src="imgs/quince/quince_6.jpg" alt="">
-                    </div>
-                    <div class="text-center mt-3">
-                        <h3 class="strong precio_2">$5399</h3>
-                    </div>
-                </div>
-
-            </div>
-        </div>
-    </section>
+    
     <section data-bs-version="5.1" class="clients2 cid-t3PhAepAbm" id="clients2-5">
         <?php require_once "preguntas_frecuentes.php";?>
     </section>
@@ -711,6 +710,8 @@
     .precio{
         background: #f8babc;
         padding: 10px;
+        font-weight: bold;
+        color: black!important;
         
     }
     .precio_2{
@@ -724,4 +725,8 @@
         padding: 10px;
         color: white;
     }
+    .mas_detalles{
+        color: black;        
+    }
+
 </style>
