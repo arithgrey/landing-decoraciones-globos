@@ -199,7 +199,7 @@
                             <div class="">
                                 <img src="imgs/coracion_coyoacan.jpg" alt="">
                                 <div class="text-center mt-3">
-                                    <a class="text-center mt-3" href="https://enidservices.com/kits-pesas-barras-discos-mancuernas-fit/producto/?producto=1685">
+                                    <a class="text-center mt-3" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1685">
                                         <h3 class="strong precio">$3800</h3>
                                         <span>Más detalles</span>
                                     </a>
@@ -214,7 +214,7 @@
                             <div class="">
                                 <img src="imgs/coracion_coyoacan_2.jpg" alt="">
                                 <div class="text-center mt-3">
-                                    <a class="text-center mt-3" href="https://enidservices.com/kits-pesas-barras-discos-mancuernas-fit/producto/?producto=1686">
+                                    <a class="text-center mt-3" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1686">
                                         <h3 class="strong precio">$5399</h3>
                                         <span>Más detalles</span>
                                     </a>
@@ -229,7 +229,7 @@
                             <div class="">
                                 <img src="imgs/coracion_coyoacan_3.jpg" alt="">
                                 <div class="text-center mt-3">
-                                    <a class="text-center mt-3" href="https://enidservices.com/kits-pesas-barras-discos-mancuernas-fit/producto/?producto=1687">
+                                    <a class="text-center mt-3" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1687">
                                         <h3 class="strong precio">$6899</h3>
                                         <span>Más detalles</span>
                                     </a>
@@ -245,7 +245,7 @@
                             <div class="">
                                 <img src="imgs/coracion_iztapalapa.jpg" alt="">
                                 <div class="text-center mt-3">
-                                    <a class="text-center mt-3" href="https://enidservices.com/kits-pesas-barras-discos-mancuernas-fit/producto/?producto=1688">
+                                    <a class="text-center mt-3" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1688">
                                         <h3 class="strong precio">$4399</h3>
                                         <span>Más detalles</span>
                                     </a>
@@ -261,7 +261,7 @@
                             <div class="">
                                 <img src="imgs/coracion_iztapalapa_2.jpg" alt="">
                                 <div class="text-center mt-2">
-                                    <a class="text-center mt-3" href="https://enidservices.com/kits-pesas-barras-discos-mancuernas-fit/producto/?producto=1689">
+                                    <a class="text-center mt-3" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1689">
                                         <h3 class="strong precio">$6799</h3>
                                         <span>Más detalles</span>
                                     </a>
@@ -277,7 +277,7 @@
                             <div class="">
                                 <img src="imgs/coracion_iztapalapa_3.jpg" alt="">
                                 <div class="text-center mt-2">
-                                    <a class="text-center mt-3" href="https://enidservices.com/kits-pesas-barras-discos-mancuernas-fit/producto/?producto=1690">
+                                    <a class="text-center mt-3" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1690">
                                         <h3 class="strong precio">$6899</h3>
                                         <span>Más detalles</span>
                                     </a>
@@ -311,7 +311,7 @@
                         
                     </div>
                     <div class="text-center mt-2">
-                        <a class="text-center mt-3" href="https://enidservices.com/kits-pesas-barras-discos-mancuernas-fit/producto/?producto=1777&q2=1">
+                        <a class="text-center mt-3" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1777&q2=1">
                             <h3 class="strong precio_2">$3699</h3>                
                             <span class="mas_detalles">Más detalles</span>
                         </a>
@@ -322,7 +322,7 @@
                         <img src="imgs/coracion_neza_2.jpg" alt="">
                     </div>
                     <div class="text-center mt-2">                        
-                        <a class="text-center mt-3" href="https://enidservices.com/kits-pesas-barras-discos-mancuernas-fit/producto/?producto=1692">
+                        <a class="text-center mt-3" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1692">
                             <h3 class="strong precio_2">$2899</h3>
                             <span class="mas_detalles">Más detalles</span>
                         </a>
@@ -334,7 +334,7 @@
                     </div>
                     <div class="text-center mt-2">
                         
-                        <a class="text-center mt-3" href="https://enidservices.com/kits-pesas-barras-discos-mancuernas-fit/producto/?producto=1693">
+                        <a class="text-center mt-3" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1693">
                             <h3 class="strong precio_2">$2899</h3>
                             <span class="mas_detalles">Más detalles</span>
                         </a>
@@ -376,7 +376,7 @@
                         <img src="imgs/metalicos/f576becbe7933b73714e9ac07f4dda67.jpg" alt="">
                     </div>
                     <div class="text-center mt-2">                        
-                        <a class="text-center mt-3" href="https://enidservices.com/kits-pesas-barras-discos-mancuernas-fit/producto/?producto=1694">
+                        <a class="text-center mt-3" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1694">
                             <h3 class="strong precio_3">$4699</h3>
                             <span class="">Más detalles</span>
                         </a>                    
@@ -388,7 +388,7 @@
                     </div>
                     <div class="text-center mt-2">
                         
-                        <a class="text-center mt-3" href="https://enidservices.com/kits-pesas-barras-discos-mancuernas-fit/producto/?producto=1695">
+                        <a class="text-center mt-3" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1695">
                             <h3 class="strong precio_3">$5199</h3>
                             <span class="">Más detalles</span>
                         </a>
@@ -400,7 +400,7 @@
                         <img src="imgs/ssss.png" alt="">
                     </div>
                     <div class="text-center mt-2">
-                        <a class="text-center mt-3" href="https://enidservices.com/kits-pesas-barras-discos-mancuernas-fit/producto/?producto=1778&q2=1">
+                        <a class="text-center mt-3" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1778&q2=1">
                             <h3 class="strong precio_3">$4099</h3>
                             <span class="">Más detalles</span>
                         </a>
@@ -411,7 +411,7 @@
                         <img src="imgs/metalicos/circular.jpg" alt="">
                     </div>
                     <div class="text-center mt-2">
-                        <a class="text-center mt-3" href="https://enidservices.com/kits-pesas-barras-discos-mancuernas-fit/producto/?producto=1778&q2=1">
+                        <a class="text-center mt-3" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1778&q2=1">
                             <h3 class="strong precio_3">$4399</h3>
                             <span class="">Más detalles</span>
                         </a>
@@ -422,7 +422,7 @@
                         <img src="imgs/metalicos/circular_1.jpg" alt="">
                     </div>
                     <div class="text-center mt-2">
-                        <a class="text-center mt-3" href="https://enidservices.com/kits-pesas-barras-discos-mancuernas-fit/producto/?producto=1697">
+                        <a class="text-center mt-3" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1697">
                             <h3 class="strong precio_3">$5199</h3>
                             <span class="">Más detalles</span>
                         </a>
@@ -434,7 +434,7 @@
                         <img src="imgs/metalicos/circular_2.jpg" alt="">
                     </div>
                     <div class="text-center mt-2">
-                        <a class="text-center mt-3" href="https://enidservices.com/kits-pesas-barras-discos-mancuernas-fit/producto/?producto=1698">
+                        <a class="text-center mt-3" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1698">
                             <h3 class="strong precio_3">$4399</h3>
                             <span class="">Más detalles</span>
                         </a>
@@ -447,7 +447,7 @@
                         <img src="imgs/metalicos/circular_3.jpg" alt="">
                     </div>
                     <div class="text-center mt-2">
-                        <a class="text-center mt-3" href="https://enidservices.com/kits-pesas-barras-discos-mancuernas-fit/producto/?producto=1699&q2=1">
+                        <a class="text-center mt-3" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1699&q2=1">
                             <h3 class="strong precio_3">$4099</h3>
                             <span class="">Más detalles</span>
                         </a>
@@ -459,7 +459,7 @@
                         <img src="imgs/metalicos/circular_4.jpg" alt="">
                     </div>
                     <div class="text-center mt-2">
-                        <a class="text-center mt-3" href="https://enidservices.com/kits-pesas-barras-discos-mancuernas-fit/producto/?producto=1700">
+                        <a class="text-center mt-3" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1700">
                             <h3 class="strong precio_3">$5699</h3>
                             <span class="">Más detalles</span>
                         </a>
@@ -472,7 +472,7 @@
                         <img src="imgs/metalicos/circular_5.jpg" alt="">
                     </div>
                     <div class="text-center mt-2">
-                        <a class="text-center mt-3" href="https://enidservices.com/kits-pesas-barras-discos-mancuernas-fit/producto/?producto=1700">
+                        <a class="text-center mt-3" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1700">
                             <h3 class="strong precio_3">$3999</h3>
                             <span class="">Más detalles</span>
                         </a>
