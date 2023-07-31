@@ -527,7 +527,12 @@
                                 <img src="imgs/cuadradas/cuadradas_2.jpg" alt="">
                             </div>
                             <div class="text-center mt-3">
-                                <h3 class="strong precio_2">$3799</h3>
+                        
+                                <a class="text-center mt-3" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1703">
+                                    <h3 class="strong precio">$3799</h3>
+                                    <span class="mas_detalles">Más detalles</span>
+                                </a>
+                                
                             </div>
                         </div>
                     </div>
