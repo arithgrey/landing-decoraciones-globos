@@ -56,7 +56,7 @@
                                             Facebook</p>
                                     </a>
 
-                                    <a class="iconfont-wrapper" href="#" target="_blank">
+                                    <a class="iconfont-wrapper" href="https://www.instagram.com/globos_globolandia_/" target="_blank">
                                         <span class="p-2 mbr-iconfont socicon-instagram socicon"></span>
                                         <p class="mbr-text mbr-fonts-style display-4">
                                             Instagram</p>
