@@ -7,7 +7,7 @@
         </div>
         <div class="col-12 col-lg-6">
             <h3 class="color-black">
-                ¿Cómo agendo mi evento?
+                ¿Cómo aseguro la fecha de mi evento?
             </h3>
             <p class="mt-4">
                 Para reservar la fecha de tu evento, es necesario realizar el pago anticipado del 10% y el monto total se liquidará
