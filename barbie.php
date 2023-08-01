@@ -76,7 +76,14 @@
                                     <div class="image-wrap">
                                         <img src="imgs/barbie/decoracion_barbie_5.jpg" alt="">
                                         <div class="text-center mt-4">
-                                            <h3 class="strong precio">$5499</h3>
+                                            
+                                        <a class="" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1682">
+                                            <div class="text-center mt-4">
+                                                <h3 class="strong precio black ">$5499</h3>
+                                                <span class="mas_detalles_b">Más detalles</span>
+                                            </div>
+                                        </a>
+                                        
                                         </div>
                                     </div>
 
@@ -89,7 +96,13 @@
                                     <div class="image-wrap">
                                         <img src="imgs/barbie/decoracion_barbie_6.jpg" alt="">
                                         <div class="text-center mt-4">
-                                            <h3 class="strong precio">$3599</h3>
+                                        <a class="" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1708">
+                                            <div class="text-center mt-4">
+                                                <h3 class="strong precio black ">$3899</h3>
+                                                <span class="mas_detalles_b">Más detalles</span>
+                                            </div>
+                                        </a>
+
                                         </div>
                                     </div>
 
@@ -102,7 +115,13 @@
                                     <div class="image-wrap">
                                         <img src="imgs/barbie/decoracion_barbie_7.jpg" alt="">
                                         <div class="text-center mt-4">
-                                            <h3 class="strong precio">$2899</h3>
+                                           <a class="" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1781">
+                                            <div class="text-center mt-4">
+                                                <h3 class="strong precio black ">$3600</h3>
+                                                <span class="mas_detalles_b">Más detalles</span>
+                                            </div>
+                                        </a>
+
                                         </div>
                                     </div>
 
@@ -141,7 +160,12 @@
                                 <img src="imgs/barbie/decoracion_barbie_8.jpg" alt="">
                             </div>
                             <div class="text-center mt-4">
-                                <h3 class="strong precio">$3499</h3>
+                                <a class="" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1709">
+                                            <div class="text-center mt-4">
+                                                <h3 class="strong precio black ">$3499</h3>
+                                                <span class="mas_detalles_b">Más detalles</span>
+                                            </div>
+                                        </a>
                             </div>
                         </div>
                     </div>
@@ -153,7 +177,12 @@
                                 <img src="imgs/barbie/decoracion_barbie_9.jpg" alt="">
                             </div>
                             <div class="text-center mt-4">
-                                <h3 class="strong precio">$2999</h3>
+                                <a class="" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1710">
+                                            <div class="text-center mt-4">
+                                                <h3 class="strong precio black ">$2999</h3>
+                                                <span class="mas_detalles_b">Más detalles</span>
+                                            </div>
+                                        </a>
                             </div>
                         </div>
                     </div>
@@ -165,7 +194,12 @@
                                 <img src="imgs/barbie/decoracion_barbie_22.jpg" alt="">
                             </div>
                             <div class="text-center mt-4">
-                                <h3 class="strong precio">$4199</h3>
+                                <a class="" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1711">
+                                            <div class="text-center mt-4">
+                                                <h3 class="strong precio black ">$4199</h3>
+                                                <span class="mas_detalles_b">Más detalles</span>
+                                            </div>
+                                        </a>
                             </div>
                         </div>
                     </div>
@@ -177,7 +211,12 @@
                                 <img src="imgs/barbie/decoracion_barbie_11.jpg" alt="">
                             </div>
                             <div class="text-center mt-4">
-                                <h3 class="strong precio">$1799</h3>
+                                <a class="" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1780">
+                                            <div class="text-center mt-4">
+                                                <h3 class="strong precio black ">$1899</h3>
+                                                <span class="mas_detalles_b">Más detalles</span>
+                                            </div>
+                                        </a>
                             </div>
                         </div>
                     </div>
@@ -189,7 +228,12 @@
                                 <img src="imgs/barbie/decoracion_barbie_13.jpg" alt="">
                             </div>
                             <div class="text-center mt-4">
-                                <h3 class="strong precio">$4899</h3>
+                                <a class="" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1712">
+                                            <div class="text-center mt-4">
+                                                <h3 class="strong precio black ">$4899</h3>
+                                                <span class="mas_detalles_b">Más detalles</span>
+                                            </div>
+                                        </a>
                             </div>
                         </div>
                     </div>
@@ -201,7 +245,12 @@
                                 <img src="imgs/barbie/decoracion_barbie_15.jpg" alt="">
                             </div>
                             <div class="text-center mt-4">
-                                <h3 class="strong precio">$4899</h3>
+                                <a class="" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1713">
+                                            <div class="text-center mt-4">
+                                                <h3 class="strong precio black ">$4899</h3>
+                                                <span class="mas_detalles_b">Más detalles</span>
+                                            </div>
+                                        </a>
                             </div>
                         </div>
                     </div>
@@ -226,7 +275,12 @@
                                 <img src="imgs/barbie/decoracion_barbie_16.jpg" alt="">
                             </div>
                             <div class="text-center mt-4">
-                                <h3 class="strong precio">$2099</h3>
+                                <a class="" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1714">
+                                            <div class="text-center mt-4">
+                                                <h3 class="strong precio black ">$2099</h3>
+                                                <span class="mas_detalles_b">Más detalles</span>
+                                            </div>
+                                        </a>
                             </div>
                         </div>
                     </div>
@@ -238,7 +292,12 @@
                                 <img src="imgs/barbie/decoracion_barbie_18.jpg" alt="">
                             </div>
                             <div class="text-center mt-4">
-                                <h3 class="strong precio">$3299</h3>
+                                <a class="" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1715">
+                                            <div class="text-center mt-4">
+                                                <h3 class="strong precio black ">$3499</h3>
+                                                <span class="mas_detalles_b">Más detalles</span>
+                                            </div>
+                                        </a>
                             </div>
                         </div>
                     </div>
@@ -250,7 +309,12 @@
                                 <img src="imgs/barbie/decoracion_barbie_17.jpg" alt="">
                             </div>
                             <div class="text-center mt-4">
-                                <h3 class="strong precio">$4299</h3>
+                                <a class="" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1716">
+                                            <div class="text-center mt-4">
+                                                <h3 class="strong precio black ">$4299</h3>
+                                                <span class="mas_detalles_b">Más detalles</span>
+                                            </div>
+                                        </a>
                             </div>
                         </div>
                     </div>
@@ -262,7 +326,12 @@
                                 <img src="imgs/barbie/decoracion_barbie_19.jpg" alt="">
                             </div>
                             <div class="text-center mt-4">
-                                <h3 class="strong precio">$2999</h3>
+                                <a class="" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1717">
+                                            <div class="text-center mt-4">
+                                                <h3 class="strong precio black ">$2799</h3>
+                                                <span class="mas_detalles_b">Más detalles</span>
+                                            </div>
+                                        </a>
                             </div>
                         </div>
                     </div>
@@ -274,7 +343,12 @@
                                 <img src="imgs/barbie/decoracion_barbie_20.jpg" alt="">
                             </div>
                             <div class="text-center mt-4">
-                                <h3 class="strong precio">$2699</h3>
+                                <a class="" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1718">
+                                            <div class="text-center mt-4">
+                                                <h3 class="strong precio black ">$2599</h3>
+                                                <span class="mas_detalles_b">Más detalles</span>
+                                            </div>
+                                        </a>
                             </div>
                         </div>
                     </div>
@@ -286,7 +360,12 @@
                                 <img src="imgs/barbie/decoracion_barbie_21.jpg" alt="">
                             </div>
                             <div class="text-center mt-4">
-                                <h3 class="strong precio">$3299</h3>
+                                <a class="" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1719">
+                                            <div class="text-center mt-4">
+                                                <h3 class="strong precio black ">$3299</h3>
+                                                <span class="mas_detalles_b">Más detalles</span>
+                                            </div>
+                                        </a>
                             </div>
 
                         </div>
@@ -329,7 +408,12 @@
                         <img src="imgs/barbie/decoracion_barbie_23.jpg" alt="">
                     </div>
                     <div class="text-center mt-4">
-                        <h3 class="strong precio">$3599</h3>
+                        <a class="" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1720">
+                                            <div class="text-center mt-4">
+                                                <h3 class="strong precio black ">$3599</h3>
+                                                <span class="mas_detalles_b">Más detalles</span>
+                                            </div>
+                                        </a>
                     </div>
                 </div>
                 <div class="col-12 col-lg-4 item features-image mt-4">
@@ -337,7 +421,12 @@
                         <img src="imgs/barbie/decoracion_barbie_24.jpg" alt="">
                     </div>
                     <div class="text-center mt-4">
-                        <h3 class="strong precio">$3599</h3>
+                        <a class="" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1721">
+                                            <div class="text-center mt-4">
+                                                <h3 class="strong precio black ">$3599</h3>
+                                                <span class="mas_detalles_b">Más detalles</span>
+                                            </div>
+                                        </a>
                     </div>
                 </div>
                 <div class="col-12 col-lg-4 item features-image mt-4">
@@ -345,7 +434,12 @@
                         <img src="imgs/barbie/decoracion_barbie_25.jpg" alt="">
                     </div>
                     <div class="text-center mt-4">
-                        <h3 class="strong precio">$3899</h3>
+                        <a class="" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1722">
+                                            <div class="text-center mt-4">
+                                                <h3 class="strong precio black ">$5499</h3>
+                                                <span class="mas_detalles_b">Más detalles</span>
+                                            </div>
+                                        </a>
                     </div>
 
                 </div>
@@ -354,7 +448,12 @@
                         <img src="imgs/barbie/decoracion_barbie_26.jpg" alt="">
                     </div>
                     <div class="text-center mt-4">
-                        <h3 class="strong precio">$2999</h3>
+                        <a class="" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1723">
+                                            <div class="text-center mt-4">
+                                                <h3 class="strong precio black ">$2999</h3>
+                                                <span class="mas_detalles_b">Más detalles</span>
+                                            </div>
+                                        </a>
                     </div>
 
                 </div>
@@ -363,7 +462,12 @@
                         <img src="imgs/barbie/decoracion_barbie_27.jpg" alt="">
                     </div>
                     <div class="text-center mt-4">
-                        <h3 class="strong precio">$4599</h3>
+                        <a class="" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1724">
+                                            <div class="text-center mt-4">
+                                                <h3 class="strong precio black ">$4599</h3>
+                                                <span class="mas_detalles_b">Más detalles</span>
+                                            </div>
+                                        </a>
                     </div>
                 </div>
                 <div class="col-12 col-lg-4 item features-image mt-4">
@@ -371,7 +475,12 @@
                         <img src="imgs/barbie/decoracion_barbie_28.jpg" alt="">
                     </div>
                     <div class="text-center mt-4">
-                        <h3 class="strong precio">$4599</h3>
+                        <a class="" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1725">
+                                            <div class="text-center mt-4">
+                                                <h3 class="strong precio black ">$4599</h3>
+                                                <span class="mas_detalles_b">Más detalles</span>
+                                            </div>
+                                        </a>
                     </div>
                 </div>
                 <div class="col-12 col-lg-4 item features-image mt-4">
@@ -379,7 +488,12 @@
                         <img src="imgs/barbie/decoracion_barbie_29.jpg" alt="">
                     </div>
                     <div class="text-center mt-4">
-                        <h3 class="strong precio">$5599</h3>
+                        <a class="" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1726">
+                                            <div class="text-center mt-4">
+                                                <h3 class="strong precio black ">$6299</h3>
+                                                <span class="mas_detalles_b">Más detalles</span>
+                                            </div>
+                                        </a>
                     </div>
                 </div>
                 <div class="col-12 col-lg-4 item features-image mt-4">
@@ -387,7 +501,12 @@
                         <img src="imgs/barbie/decoracion_barbie_30.jpg" alt="">
                     </div>
                     <div class="text-center mt-4">
-                        <h3 class="strong precio">$4499</h3>
+                        <a class="" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1727">
+                                            <div class="text-center mt-4">
+                                                <h3 class="strong precio black ">$4499</h3>
+                                                <span class="mas_detalles_b">Más detalles</span>
+                                            </div>
+                                        </a>
                     </div>
                 </div>
                 <div class="col-12 col-lg-4 item features-image mt-4">
@@ -395,7 +514,12 @@
                         <img src="imgs/barbie/decoracion_barbie_31.jpg" alt="">
                     </div>
                     <div class="text-center mt-4">
-                        <h3 class="strong precio">$3599</h3>
+                        <a class="" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1728">
+                                            <div class="text-center mt-4">
+                                                <h3 class="strong precio black ">$3599</h3>
+                                                <span class="mas_detalles_b">Más detalles</span>
+                                            </div>
+                                        </a>
                     </div>
                 </div>
                 <div class="col-12 col-lg-4 item features-image mt-4">
@@ -403,7 +527,12 @@
                         <img src="imgs/barbie/decoracion_barbie_32.jpg" alt="">
                     </div>
                     <div class="text-center mt-4">
-                        <h3 class="strong precio">$5399</h3>
+                        <a class="" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1729">
+                                            <div class="text-center mt-4">
+                                                <h3 class="strong precio black ">$5399</h3>
+                                                <span class="mas_detalles_b">Más detalles</span>
+                                            </div>
+                                        </a>
                     </div>
                 </div>
                 <div class="col-12 col-lg-4 item features-image mt-4">
@@ -411,7 +540,12 @@
                         <img src="imgs/barbie/decoracion_barbie_33.jpg" alt="">
                     </div>
                     <div class="text-center mt-4">
-                        <h3 class="strong precio">$3599</h3>
+                        <a class="" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1730">
+                                            <div class="text-center mt-4">
+                                                <h3 class="strong precio black ">$3599</h3>
+                                                <span class="mas_detalles_b">Más detalles</span>
+                                            </div>
+                                        </a>
                     </div>
                 </div>
 
@@ -548,5 +682,18 @@
         background: #d4287a;
         color: white;
         padding: 10px;
+    }
+    .mas_detalles_b {
+        color: black;
+        font-weight: bold;
+    }
+
+    .black {
+        color: black;
+        font-weight: bold;
+    }
+    .mas_detalles_w{
+        color: white;
+        font-weight: bold;
     }
 </style>
