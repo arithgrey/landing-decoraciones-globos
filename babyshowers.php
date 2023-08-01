@@ -77,14 +77,14 @@
                                     <div class="image-wrap">
                                         <img src="imgs/babyshowers/baby_1.jpg" alt="">
                                         <div class="text-center mt-4">
-                                            
+
                                             <a class="" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1782">
                                                 <div class="text-center mt-4">
                                                     <h3 class="strong precio black">$5299</h3>
                                                     <span class="mas_detalles_b">Más detalles</span>
                                                 </div>
                                             </a>
-                                            
+
                                         </div>
                                     </div>
 
@@ -97,7 +97,7 @@
                                     <div class="image-wrap">
                                         <img src="imgs/babyshowers/baby_2.jpg" alt="">
                                         <div class="text-center mt-4">
-                                            
+
                                             <a class="" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1731">
                                                 <div class="text-center mt-4">
                                                     <h3 class="strong precio black">$6499</h3>
@@ -161,13 +161,13 @@
                                 <img src="imgs/babyshowers/baby_4.jpg" alt="">
                             </div>
                             <div class="text-center mt-4">
-                                
-                                            <a class="" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1732">
-                                                <div class="text-center mt-4">
-                                                    <h3 class="strong precio black">$5600</h3>
-                                                    <span class="mas_detalles_b">Más detalles</span>
-                                                </div>
-                                            </a>
+
+                                <a class="" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1732">
+                                    <div class="text-center mt-4">
+                                        <h3 class="strong precio black">$5600</h3>
+                                        <span class="mas_detalles_b">Más detalles</span>
+                                    </div>
+                                </a>
 
                             </div>
                         </div>
@@ -180,13 +180,13 @@
                                 <img src="imgs/babyshowers/baby_5.jpg" alt="">
                             </div>
                             <div class="text-center mt-4">
-                                
-                                            <a class="" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1733">
-                                                <div class="text-center mt-4">
-                                                    <h3 class="strong precio black">$6200</h3>
-                                                    <span class="mas_detalles_b">Más detalles</span>
-                                                </div>
-                                            </a>
+
+                                <a class="" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1733">
+                                    <div class="text-center mt-4">
+                                        <h3 class="strong precio black">$6200</h3>
+                                        <span class="mas_detalles_b">Más detalles</span>
+                                    </div>
+                                </a>
                             </div>
                         </div>
                     </div>
@@ -198,12 +198,12 @@
                                 <img src="imgs/babyshowers/baby_6.jpg" alt="">
                             </div>
                             <div class="text-center mt-4">
-                                            <a class="" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1734">
-                                                <div class="text-center mt-4">
-                                                    <h3 class="strong precio black">$4400</h3>
-                                                    <span class="mas_detalles_b">Más detalles</span>
-                                                </div>
-                                            </a>
+                                <a class="" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1734">
+                                    <div class="text-center mt-4">
+                                        <h3 class="strong precio black">$4400</h3>
+                                        <span class="mas_detalles_b">Más detalles</span>
+                                    </div>
+                                </a>
                             </div>
                         </div>
                     </div>
@@ -215,13 +215,13 @@
                                 <img src="imgs/babyshowers/baby_7.jpg" alt="">
                             </div>
                             <div class="text-center mt-4">
-                                
-                                            <a class="" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1735">
-                                                <div class="text-center mt-4">
-                                                    <h3 class="strong precio black">$6299</h3>
-                                                    <span class="mas_detalles_b">Más detalles</span>
-                                                </div>
-                                            </a>
+
+                                <a class="" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1735">
+                                    <div class="text-center mt-4">
+                                        <h3 class="strong precio black">$6299</h3>
+                                        <span class="mas_detalles_b">Más detalles</span>
+                                    </div>
+                                </a>
 
                             </div>
                         </div>
@@ -234,13 +234,13 @@
                                 <img src="imgs/babyshowers/baby_8.jpg" alt="">
                             </div>
                             <div class="text-center mt-4">
-                                
-                            <a class="" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1735">
-                                                <div class="text-center mt-4">
-                                                    <h3 class="strong precio black">$6299</h3>
-                                                    <span class="mas_detalles_b">Más detalles</span>
-                                                </div>
-                                            </a>
+
+                                <a class="" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1735">
+                                    <div class="text-center mt-4">
+                                        <h3 class="strong precio black">$6299</h3>
+                                        <span class="mas_detalles_b">Más detalles</span>
+                                    </div>
+                                </a>
                             </div>
                         </div>
                     </div>
@@ -252,13 +252,13 @@
                                 <img src="imgs/babyshowers/baby_9.jpg" alt="">
                             </div>
                             <div class="text-center mt-4">
-                                
-                                            <a class="" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1737">
-                                                <div class="text-center mt-4">
-                                                    <h3 class="strong precio black">$6499</h3>
-                                                    <span class="mas_detalles_b">Más detalles</span>
-                                                </div>
-                                            </a>
+
+                                <a class="" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1737">
+                                    <div class="text-center mt-4">
+                                        <h3 class="strong precio black">$6499</h3>
+                                        <span class="mas_detalles_b">Más detalles</span>
+                                    </div>
+                                </a>
                             </div>
                         </div>
                     </div>
@@ -270,13 +270,13 @@
                                 <img src="imgs/babyshowers/baby_10.jpg" alt="">
                             </div>
                             <div class="text-center mt-4">
-                                
-                                            <a class="" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1738">
-                                                <div class="text-center mt-4">
-                                                    <h3 class="strong precio black">$6499</h3>
-                                                    <span class="mas_detalles_b">Más detalles</span>
-                                                </div>
-                                            </a>
+
+                                <a class="" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1738">
+                                    <div class="text-center mt-4">
+                                        <h3 class="strong precio black">$6499</h3>
+                                        <span class="mas_detalles_b">Más detalles</span>
+                                    </div>
+                                </a>
 
                             </div>
                         </div>
@@ -290,12 +290,12 @@
                                 <img src="imgs/babyshowers/baby_11.jpg" alt="">
                             </div>
                             <div class="text-center mt-4">
-                                            <a class="" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1739">
-                                                <div class="text-center mt-4">
-                                                    <h3 class="strong precio black">$6499</h3>
-                                                    <span class="mas_detalles_b">Más detalles</span>
-                                                </div>
-                                            </a>
+                                <a class="" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1739">
+                                    <div class="text-center mt-4">
+                                        <h3 class="strong precio black">$6499</h3>
+                                        <span class="mas_detalles_b">Más detalles</span>
+                                    </div>
+                                </a>
                             </div>
                         </div>
                     </div>
@@ -309,12 +309,12 @@
                                 <img src="imgs/babyshowers/baby_12.jpg" alt="">
                             </div>
                             <div class="text-center mt-4">
-                                            <a class="" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1740">
-                                                <div class="text-center mt-4">
-                                                    <h3 class="strong precio black">$3799</h3>
-                                                    <span class="mas_detalles_b">Más detalles</span>
-                                                </div>
-                                            </a>
+                                <a class="" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1740">
+                                    <div class="text-center mt-4">
+                                        <h3 class="strong precio black">$3799</h3>
+                                        <span class="mas_detalles_b">Más detalles</span>
+                                    </div>
+                                </a>
                             </div>
                         </div>
                     </div>
@@ -327,12 +327,12 @@
                                 <img src="imgs/babyshowers/baby_13.jpg" alt="">
                             </div>
                             <div class="text-center mt-4">
-                                            <a class="" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1784">
-                                                <div class="text-center mt-4">
-                                                    <h3 class="strong precio black">$3499</h3>
-                                                    <span class="mas_detalles_b">Más detalles</span>
-                                                </div>
-                                            </a>
+                                <a class="" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1784">
+                                    <div class="text-center mt-4">
+                                        <h3 class="strong precio black">$3499</h3>
+                                        <span class="mas_detalles_b">Más detalles</span>
+                                    </div>
+                                </a>
                             </div>
                         </div>
                     </div>
@@ -670,7 +670,8 @@
         color: white;
         padding: 10px;
     }
-    .cid-t3PhNQeo5q{
-        background: #e7dac7!important;
+
+    .cid-t3PhNQeo5q {
+        background: #e7dac7 !important;
     }
 </style>

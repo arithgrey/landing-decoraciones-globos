@@ -32,12 +32,12 @@
     <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css">
     <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
     <link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.min.css">
-    
-    <?php require_once "pixel.php";?>
+
+    <?php require_once "pixel.php"; ?>
 </head>
 
 <body>
-<?php require "menu.php";?>
+    <?php require "menu.php"; ?>
     <section data-bs-version="5.1" class="header2 cid-t3PhvukuJW mbr-fullscreen mbr-parallax-background" id="header2-1">
 
 
@@ -136,10 +136,16 @@
                                     <div class="image-wrap">
                                         <img src="imgs/decoracion_cliente_benito_j2.jpg" alt="">
                                         <div class="text-center mt-4">
-                                            <h3 class="strong precio">$2999</h3>
+                                            <a class="" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1683">
+                                                <div class="text-center mt-4">
+                                                    <h3 class="strong precio black">$2999</h3>
+                                                    <span class="mas_detalles_b">Más detalles</span>
+                                                </div>
+                                            </a>
+
                                         </div>
                                     </div>
-                                    
+
                                 </div>
                             </div>
                         </div>
@@ -149,7 +155,12 @@
                                     <div class="image-wrap">
                                         <img src="imgs/test_2.jpeg" alt="">
                                         <div class="text-center mt-4">
-                                            <h3 class="strong precio">$2899</h3>
+                                            <a class="" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1684">
+                                                <div class="text-center mt-4">
+                                                    <h3 class="strong precio black">$2899</h3>
+                                                    <span class="mas_detalles_b">Más detalles</span>
+                                                </div>
+                                            </a>
                                         </div>
                                     </div>
                                 </div>
@@ -162,7 +173,12 @@
                                         <img src="imgs/test_1.jpeg" alt="">
 
                                         <div class="text-center mt-4">
-                                            <h3 class="strong precio">$3199</h3>
+                                            <a class="" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1786">
+                                                <div class="text-center mt-4">
+                                                    <h3 class="strong precio black">$2999</h3>
+                                                    <span class="mas_detalles_b">Más detalles</span>
+                                                </div>
+                                            </a>
                                         </div>
                                     </div>
                                 </div>
@@ -302,17 +318,17 @@
             <div class="features-header">
                 <h3 class="mbr-section-subtitle mbr-fonts-style display-2 color_bbb">
                     <strong>Instalamos y pagas al terminar el decorado!</strong>
-                </h3>                
+                </h3>
             </div>
             <div class="row">
                 <div class="col-12 col-lg-4 item features-image">
                     <div class="card item-wrapper">
                         <img src="imgs/coracion_neza.jpg" alt="">
-                        
+
                     </div>
                     <div class="text-center mt-2">
                         <a class="text-center mt-3" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1777&q2=1">
-                            <h3 class="strong precio_2">$3699</h3>                
+                            <h3 class="strong precio_2">$3699</h3>
                             <span class="mas_detalles">Más detalles</span>
                         </a>
                     </div>
@@ -321,7 +337,7 @@
                     <div class="card item-wrapper">
                         <img src="imgs/coracion_neza_2.jpg" alt="">
                     </div>
-                    <div class="text-center mt-2">                        
+                    <div class="text-center mt-2">
                         <a class="text-center mt-3" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1692">
                             <h3 class="strong precio_2">$2899</h3>
                             <span class="mas_detalles">Más detalles</span>
@@ -330,10 +346,10 @@
                 </div>
                 <div class="col-12 col-lg-4 item features-image">
                     <div class="card item-wrapper">
-                        <img src="imgs/coracion_neza_3.jpg" alt="">                        
+                        <img src="imgs/coracion_neza_3.jpg" alt="">
                     </div>
                     <div class="text-center mt-2">
-                        
+
                         <a class="text-center mt-3" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1693">
                             <h3 class="strong precio_2">$2899</h3>
                             <span class="mas_detalles">Más detalles</span>
@@ -345,7 +361,7 @@
         </div>
     </section>
 
-   
+
     <section data-bs-version="5.1" class="content1 cid-t3PiYeiBgz anticipa_ya" id="content1-g">
         <div class="container-fluid">
             <div class="row justify-content-center">
@@ -368,18 +384,18 @@
                 <h3 class="mbr-section-subtitle mbr-fonts-style display-2 color_white">
                     <strong>Cubrimos todo CDMX y la zona metropolitana!</strong>
                 </h3>
-                
+
             </div>
             <div class="row">
                 <div class="col-12 col-lg-4 item features-image mt-4">
                     <div class="card item-wrapper">
                         <img src="imgs/metalicos/f576becbe7933b73714e9ac07f4dda67.jpg" alt="">
                     </div>
-                    <div class="text-center mt-2">                        
+                    <div class="text-center mt-2">
                         <a class="text-center mt-3" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1694">
                             <h3 class="strong precio_3">$4699</h3>
                             <span class="">Más detalles</span>
-                        </a>                    
+                        </a>
                     </div>
                 </div>
                 <div class="col-12 col-lg-4 item features-image mt-4">
@@ -387,7 +403,7 @@
                         <img src="imgs/metalicos/d7e92efcbe4f5a0ec5e84b83d68fdf5c.jpg" alt="">
                     </div>
                     <div class="text-center mt-2">
-                        
+
                         <a class="text-center mt-3" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1695">
                             <h3 class="strong precio_3">$5199</h3>
                             <span class="">Más detalles</span>
@@ -504,7 +520,7 @@
 
                 <h2 class="mbr-section-title mbr-fonts-style display-2 color_white">
                     <strong>Anticipa la fecha de tu evento con el 10%</strong>
-                </h2>                
+                </h2>
             </div>
             <div class="row">
                 <div class="col-12 col-lg-6 col-md-6 card item features-image">
@@ -514,7 +530,10 @@
                                 <img src="imgs/cuadradas/cuadradas_1.jpg" alt="">
                             </div>
                             <div class="text-center mt-3">
-                                <h3 class="strong precio_2">$3199</h3>
+                                <a class="text-center mt-3" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1702">
+                                    <h3 class="strong precio">$3199</h3>
+                                    <span class="mas_detalles">Más detalles</span>
+                                </a>
                             </div>
 
                         </div>
@@ -527,12 +546,12 @@
                                 <img src="imgs/cuadradas/cuadradas_2.jpg" alt="">
                             </div>
                             <div class="text-center mt-3">
-                        
+
                                 <a class="text-center mt-3" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1703">
                                     <h3 class="strong precio">$3799</h3>
                                     <span class="mas_detalles">Más detalles</span>
                                 </a>
-                                
+
                             </div>
                         </div>
                     </div>
@@ -544,7 +563,10 @@
                                 <img src="imgs/cuadradas/cuadradas_3.jpg" alt="">
                             </div>
                             <div class="text-center mt-3">
-                                <h3 class="strong precio_2">$2999</h3>
+                                <a class="text-center mt-3" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1704">
+                                    <h3 class="strong precio">$2999</h3>
+                                    <span class="mas_detalles">Más detalles</span>
+                                </a>
                             </div>
 
                         </div>
@@ -557,7 +579,10 @@
                                 <img src="imgs/cuadradas/cuadradas_4.jpg" alt="">
                             </div>
                             <div class="text-center mt-3">
-                                <h3 class="strong precio_2">$3999</h3>
+                                <a class="text-center mt-3" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1705">
+                                    <h3 class="strong precio">$3999</h3>
+                                    <span class="mas_detalles">Más detalles</span>
+                                </a>
                             </div>
 
                         </div>
@@ -570,7 +595,10 @@
                                 <img src="imgs/cuadradas/cuadradas_5.jpg" alt="">
                             </div>
                             <div class="text-center mt-3">
-                                <h3 class="strong precio_2">$3999</h3>
+                                <a class="text-center mt-3" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1706">
+                                    <h3 class="strong precio">$3999</h3>
+                                    <span class="mas_detalles">Más detalles</span>
+                                </a>
                             </div>
 
                         </div>
@@ -583,7 +611,10 @@
                                 <img src="imgs/cuadradas/cuadradas_6.jpg" alt="">
                             </div>
                             <div class="text-center mt-3">
-                                <h3 class="strong precio_2">$3999</h3>
+                                <a class="text-center mt-3" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1707">
+                                    <h3 class="strong precio">$3999</h3>
+                                    <span class="mas_detalles">Más detalles</span>
+                                </a>
                             </div>
                         </div>
                     </div>
@@ -596,9 +627,9 @@
             </div>
         </div>
     </section>
-    
+
     <section data-bs-version="5.1" class="clients2 cid-t3PhAepAbm" id="clients2-5">
-        <?php require_once "preguntas_frecuentes.php";?>
+        <?php require_once "preguntas_frecuentes.php"; ?>
     </section>
 
     <section class="d-md-none" data-bs-version="5.1">
@@ -712,26 +743,29 @@
     .color_black {
         color: #020b18 !important;
     }
-    .precio{
+
+    .precio {
         background: #f8babc;
         padding: 10px;
         font-weight: bold;
-        color: black!important;
-        
+        color: black !important;
+
     }
-    .precio_2{
+
+    .precio_2 {
         background: black;
         padding: 10px;
         color: white;
-        
+
     }
-    .precio_3{
+
+    .precio_3 {
         background: #ba7c6c;
         padding: 10px;
         color: white;
     }
-    .mas_detalles{
-        color: black;        
-    }
 
+    .mas_detalles {
+        color: black;
+    }
 </style>
