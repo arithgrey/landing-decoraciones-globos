@@ -38,10 +38,12 @@
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="tematicasDropdown">
                             <li><a class="dropdown-item" href="index.php">Decoraciones temáticas</a></li>
+                            <!--
                             <li><a class="dropdown-item" href="https://snowshots.com.mx/">Comida para tu evento</a></li>
                             <li><a class="dropdown-item" href="https://snowshots.com.mx/taquizas.php">Taquizas</a></li>
                             <li><a class="dropdown-item" href="https://snowshots.com.mx/parrilladas.php">Parrilladas</a></li>
                             <li><a class="dropdown-item" href="https://snowshots.com.mx/cocteles.php">Mesas de Cócteles</a></li>
+                            -->
                             <li><a class="dropdown-item" href="cervezas.php">Cervezas a domicilio pago contra entrega</a></li>
                             
                         </ul>
@@ -80,7 +82,9 @@
                             </div>
                             <p class="text_widget mb-0 mbr-fonts-style display-4">
                                 <br><br>
-                                <a class="text-secondary">(55) 7612-7281</a>
+                                <a class="text-secondary" href="https://enidservice.com/">
+                                    ¿Necesitas una página web?
+                                </a>
                                 <br><br>
 
                             </p>
