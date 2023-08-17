@@ -78,7 +78,7 @@
 
                                             <a class="" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1755">
                                                 <div class="text-center mt-4">
-                                                    <h3 class="strong precio black">$4399</h3>
+                                                    
                                                     <span class="mas_detalles_b">Más detalles</span>
                                                 </div>
                                             </a>
@@ -98,7 +98,7 @@
                                         <img src="imgs/infantiles/infantiles_2.jpg" alt="">
                                         <a class="" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1756">
                                             <div class="text-center mt-4">
-                                                <h3 class="strong precio black">$6999</h3>
+                                                
                                                 <span class="mas_detalles_b">Más detalles</span>
                                             </div>
                                         </a>
@@ -113,7 +113,7 @@
                                         <img src="imgs/infantiles/infantiles_3.jpg" alt="">
                                         <a class="" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1757">
                                             <div class="text-center mt-4">
-                                                <h3 class="strong precio black">$7100</h3>
+                                                
                                                 <span class="mas_detalles_b">Más detalles</span>
                                             </div>
                                         </a>
@@ -154,7 +154,7 @@
                                 <div class="text-center mt-4">
                                     <a class="" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1758">
                                         <div class="text-center mt-4">
-                                            <h3 class="strong precio black">$6200</h3>
+                                            
                                             <span class="mas_detalles_b">Más detalles</span>
                                         </div>
                                     </a>
@@ -172,7 +172,7 @@
                                 <div class="text-center mt-4">
                                     <a class="" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1759">
                                         <div class="text-center mt-4">
-                                            <h3 class="strong precio black">$6200</h3>
+                                            
                                             <span class="mas_detalles_b">Más detalles</span>
                                         </div>
                                     </a>
@@ -190,7 +190,7 @@
                                 <div class="text-center mt-4">
                                     <a class="" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1760">
                                         <div class="text-center mt-4">
-                                            <h3 class="strong precio black">$4600</h3>
+                                            
                                             <span class="mas_detalles_b">Más detalles</span>
                                         </div>
                                     </a>
@@ -207,7 +207,12 @@
                             <div class="">
                                 <img src="imgs/infantiles/infantiles_9.jpg" alt="">
                                 <div class="text-center mt-4">
-                                    <h3 class="strong precio">$6100</h3>
+                                <a class="" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1762">
+                                        <div class="text-center mt-4">
+                                            
+                                            <span class="mas_detalles_b">Más detalles</span>
+                                        </div>
+                                    </a>
                                 </div>
                             </div>
 
@@ -222,7 +227,7 @@
                                 <div class="text-center mt-4">
                                     <a class="" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1762">
                                         <div class="text-center mt-4">
-                                            <h3 class="strong precio black">$6900</h3>
+                                            
                                             <span class="mas_detalles_b">Más detalles</span>
                                         </div>
                                     </a>
@@ -241,7 +246,7 @@
                                 <div class="text-center mt-4">
                                     <a class="" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1763">
                                         <div class="text-center mt-4">
-                                            <h3 class="strong precio black">$4499</h3>
+                                            
                                             <span class="mas_detalles_b">Más detalles</span>
                                         </div>
                                     </a>
@@ -276,7 +281,7 @@
                     <div class="text-center mt-2">
                                     <a class="" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1764">
                                         <div class="text-center mt-4">
-                                            <h3 class="strong precio black">$5300</h3>
+                                            
                                             <span class="mas_detalles_w">Más detalles</span>
                                         </div>
                                     </a>
@@ -290,7 +295,7 @@
                     <div class="text-center mt-2">
                                 <a class="" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1765">
                                         <div class="text-center mt-4">
-                                            <h3 class="strong precio black">$5100</h3>
+                                            
                                             <span class="mas_detalles_w">Más detalles</span>
                                         </div>
                                     </a>
@@ -303,7 +308,7 @@
                     <div class="text-center mt-2">
                                     <a class="" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1766">
                                         <div class="text-center mt-4">
-                                            <h3 class="strong precio black">$5300</h3>
+                                            
                                             <span class="mas_detalles_w">Más detalles</span>
                                         </div>
                                     </a>
@@ -317,7 +322,7 @@
                         
                         <a class="" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1767">
                                         <div class="text-center mt-4">
-                                            <h3 class="strong precio black">$6100</h3>
+                                            
                                             <span class="mas_detalles_w">Más detalles</span>
                                         </div>
                                     </a>
@@ -331,7 +336,7 @@
                     <div class="text-center mt-2">
                                     <a class="" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1768">
                                         <div class="text-center mt-4">
-                                            <h3 class="strong precio black">$5800</h3>
+                                            
                                             <span class="mas_detalles_w">Más detalles</span>
                                         </div>
                                     </a>
@@ -345,7 +350,7 @@
                                     <div class="text-center mt-2">
                                     <a class="" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1769">
                                         <div class="text-center mt-4">
-                                            <h3 class="strong precio black">$3399</h3>
+                                            
                                             <span class="mas_detalles_w">Más detalles</span>
                                         </div>
                                     </a>
@@ -361,7 +366,7 @@
                     <div class="text-center mt-2">
                                     <a class="" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1770">
                                         <div class="text-center mt-4">
-                                            <h3 class="strong precio black">$3499</h3>
+                                            
                                             <span class="mas_detalles_w">Más detalles</span>
                                         </div>
                                     </a>
@@ -376,7 +381,7 @@
                         
                                     <a class="" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1771">
                                         <div class="text-center mt-4">
-                                            <h3 class="strong precio black">$4300</h3>
+                                            
                                             <span class="mas_detalles_w">Más detalles</span>
                                         </div>
                                     </a>
@@ -391,7 +396,7 @@
                     <div class="text-center mt-2">
                     <a class="" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1772">
                                         <div class="text-center mt-4">
-                                            <h3 class="strong precio black">$4100</h3>
+                                            
                                             <span class="mas_detalles_w">Más detalles</span>
                                         </div>
                                     </a>
@@ -407,7 +412,7 @@
                         
                                 <a class="" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1773">
                                         <div class="text-center mt-4">
-                                            <h3 class="strong precio black">$4999</h3>
+                                            
                                             <span class="mas_detalles_w">Más detalles</span>
                                         </div>
                                     </a>
@@ -422,7 +427,7 @@
                     <div class="text-center mt-2">
                                     <a class="" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1779">
                                         <div class="text-center mt-4">
-                                            <h3 class="strong precio black">$3999</h3>
+                                            
                                             <span class="mas_detalles_w">Más detalles</span>
                                         </div>
                                     </a>
@@ -435,7 +440,7 @@
                     <div class="text-center mt-2">
                                     <a class="" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1774">
                                         <div class="text-center mt-4">
-                                            <h3 class="strong precio black">$3999</h3>
+                                            
                                             <span class="mas_detalles_w">Más detalles</span>
                                         </div>
                                     </a>
@@ -449,7 +454,7 @@
                         
                                 <a class="" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1775">
                                         <div class="text-center mt-4">
-                                            <h3 class="strong precio black">$4399</h3>
+                                            
                                             <span class="mas_detalles_w">Más detalles</span>
                                         </div>
                                     </a>
@@ -463,7 +468,7 @@
                         
                         <a class="" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1776">
                                         <div class="text-center mt-4">
-                                            <h3 class="strong precio black">$4399</h3>
+                                            
                                             <span class="mas_detalles_w">Más detalles</span>
                                         </div>
                                     </a>
