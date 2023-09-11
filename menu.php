@@ -31,17 +31,7 @@
                             <li><a class="dropdown-item" href="infantiles.php">Infantiles</a></li>
                             <li><a class="dropdown-item" href="https://enidservices.com/decoraciones-tematicas-globolandia/">Todos los modelos!</a></li>
                         </ul>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link dropdown-toggle display-4" href="#" id="tematicasDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                            Servicios
-                        </a>
-                        <ul class="dropdown-menu" aria-labelledby="tematicasDropdown">
-                            <li><a class="dropdown-item" href="index.php">Decoraciones temáticas</a></li>                            
-                        </ul>
-                    </li>
-                    
-
+                    </li>                    
                 </ul>
                 <div class="offcanvas_box">
                     <button class="btn_offcanvas" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasRight" aria-controls="offcanvasRight">
@@ -78,9 +68,7 @@
                                     ¿Necesitas una página web?
                                 </a>
                                 <br><br>
-
                             </p>
-
                         </div>
                     </div>
                 </div>
