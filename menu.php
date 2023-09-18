@@ -25,10 +25,12 @@
                             Temáticas populares
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="tematicasDropdown">
-                            <li><a class="dropdown-item" href="barbie.php">Barbie</a></li>
-                            <li><a class="dropdown-item" href="babyshowers.php">Baby shower</a></li>
+                        <li><a class="dropdown-item" href="infantiles.php">Infantiles</a></li>
+                        <li><a class="dropdown-item" href="babyshowers.php">Baby shower</a></li>
                             <li><a class="dropdown-item" href="quinces.php">Quince Años</a></li>
-                            <li><a class="dropdown-item" href="infantiles.php">Infantiles</a></li>
+                            <li><a class="dropdown-item" href="barbie.php">Barbie</a></li>
+                            
+                            
                             <li><a class="dropdown-item" href="https://enidservices.com/decoraciones-tematicas-globolandia/">Todos los modelos!</a></li>
                         </ul>
                     </li>                    
